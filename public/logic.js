@@ -13,14 +13,16 @@
 // A "night" is a calendar date offset by NIGHT_CUTOFF_HOURS, so reading at
 // 1 a.m. still counts for the evening before.
 
-export const NIGHT_CUTOFF_HOURS = 3; // a night runs until 3 a.m., so late reading counts for the evening before
+import SETUP from './setup.js';
+// A night runs until this hour (from public/setup.js, default 3 a.m.), so late reading counts for the evening before.
+export const NIGHT_CUTOFF_HOURS = Number.isInteger(SETUP.nightEndsAt) && SETUP.nightEndsAt >= 0 && SETUP.nightEndsAt <= 6 ? SETUP.nightEndsAt : 3;
 export const SLOTS = ['poem', 'story', 'essay'];
 export const TOTAL_SETS = 1000;
 
 const pad = (n) => String(n).padStart(2, '0');
 export const ymd = (d) => `${d.getFullYear()}-${pad(d.getMonth() + 1)}-${pad(d.getDate())}`;
-export function nightOf(now = new Date()) {
-  return ymd(new Date(now.getTime() - NIGHT_CUTOFF_HOURS * 3600e3));
+export function nightOf(now = new Date(), cutoff = NIGHT_CUTOFF_HOURS) {
+  return ymd(new Date(now.getTime() - cutoff * 3600e3));
 }
 export function addDays(date, n) {
   const [y, m, d] = date.split('-').map(Number);

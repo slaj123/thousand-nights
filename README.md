@@ -96,6 +96,23 @@ Login-required items (none at the moment) would be checked through their public 
 
 Item fields: `id, title, author, url, est_minutes, tag, requires_login, login_source`, plus optional `audio_url` and `word_count_est`.
 
+## Make it yours
+
+```bash
+npm install
+npm run setup
+```
+
+It asks which date is night 1 and what hour a night ends (by default 3 a.m., so reading after midnight counts for the evening before). It then:
+- writes `public/setup.js`;
+- sets `RESET_FLOOR` in `wrangler.jsonc` to your start date;
+- makes your sync key in `private/sync-key.txt` (git-ignored);
+- with local testing on, writes `.dev.vars` so no key is needed on localhost.
+
+The reading list is the same for everyone; that's the challenge. In the app, **Swap** replaces any item with your own pick.
+
+**Set up with Claude Code:** open this folder in [Claude Code](https://claude.com/claude-code) and type `/setup`. It asks the same questions in conversation and walks you through putting it online.
+
 ## Setup: D1, sync key, GitHub, deploy
 
 You need a free Cloudflare account and a GitHub account. Run these in the repo folder.
@@ -116,7 +133,7 @@ You need a free Cloudflare account and a GitHub account. Run these in the repo f
    ```bash
    npx wrangler d1 migrations apply thousand-nights --remote
    ```
-   Also set `RESET_FLOOR` in `wrangler.jsonc` to the date of your first night.
+   (`npm run setup` already set `RESET_FLOOR` in `wrangler.jsonc` to your night 1.)
 
 3. **First deploy**, to get your URL:
    ```bash
@@ -127,14 +144,11 @@ You need a free Cloudflare account and a GitHub account. Run these in the repo f
    ```
    It prints `https://thousand-nights.<your-subdomain>.workers.dev`. That's the app URL.
 
-4. **Set the sync key.** This is one long random password that the API requires on every request. Generate one, then store it as a Worker secret so it never lands in the repo:
-   ```bash
-   node -e "console.log('k_' + require('crypto').randomBytes(24).toString('base64url'))"
-   ```
+4. **Set the sync key.** This is one long random password that the API requires on every request. `npm run setup` made one in `private/sync-key.txt`. Store it as a Worker secret so it never lands in the repo:
    ```bash
    npx wrangler secret put SYNC_KEY
    ```
-   Paste the key when prompted. To allow a second key (a friend, or a key you are rotating in), store both, separated by a comma. To revoke a key, store the list without it.
+   Paste the line from `private/sync-key.txt` when prompted. To allow a second key (a friend, or a key you are rotating in), store both, separated by a comma. To revoke a key, store the list without it.
 
 5. **Paste the key into the app once per device.** Open the URL, paste the key into the **Sync key** box, and tap **Save**. The pill shows **Synced** when it works. A wrong key shows an error, and nothing syncs.
 

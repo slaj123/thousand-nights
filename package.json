@@ -5,6 +5,7 @@
   "description": "Ray Bradbury's 1,000 nights reading challenge: tracker app, curated content, link verifier.",
   "type": "module",
   "scripts": {
+    "setup": "node scripts/setup.mjs",
     "build": "node scripts/build_public.mjs",
     "dev": "npm run build && node scripts/dev_server.mjs 8787",
     "test": "node --test test/logic.test.mjs test/worker.test.mjs",

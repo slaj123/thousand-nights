@@ -3,7 +3,7 @@
 //   Google Fonts: cache first
 //   /api/*: never cached (sync handles offline itself)
 const VERSION = 'tn-v7';
-const SHELL = ['/', '/index.html', '/styles.css', '/app.js', '/logic.js', '/sync.js', '/manifest.webmanifest', '/icons/icon.svg', '/content/index.json'];
+const SHELL = ['/', '/index.html', '/styles.css', '/app.js', '/logic.js', '/setup.js', '/sync.js', '/manifest.webmanifest', '/icons/icon.svg', '/content/index.json'];
 
 self.addEventListener('install', (e) => {
   e.waitUntil(caches.open(VERSION).then((c) => c.addAll(SHELL)).then(() => self.skipWaiting()));

@@ -4,3 +4,5 @@ node_modules/
 .cache/
 public/content/
 .DS_Store
+private/
+setup.json

@@ -3,10 +3,11 @@ import {
   opSwap, opShelfCheck, shelf, SWAP_MAX,
 } from './logic.js';
 import { createStore } from './sync.js';
+import SETUP from './setup.js';
 
 const $ = (id) => document.getElementById(id);
 const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
-const START_DATE = '2026-10-23'; // night 1 of the challenge (Fri Oct 23, 2026; sets 1–6 were read before the restart)
+const START_DATE = SETUP.startDate; // night 1 of your challenge, from public/setup.js
 const AHEAD_DAYS = 7;     // how far ahead you can front-load
 
 let content = null;
@@ -127,7 +128,10 @@ function render() {
 
   // Hero
   const nightNo = daysBetween(START_DATE, viewDate) + 1;
-  $('night').innerHTML = `Night <span class="n">${nightNo.toLocaleString()}</span>`;
+  // Before night 1 (a start date in the future), say when it starts instead of a negative night.
+  $('night').innerHTML = nightNo >= 1
+    ? `Night <span class="n">${nightNo.toLocaleString()}</span>`
+    : `Starts <span class="n">${esc(new Date(START_DATE + 'T12:00:00').toLocaleDateString('en-US', { month: 'short', day: 'numeric' }))}</span>`;
   $('night').classList.toggle('done', !!allDone);
   const setLabel = view.mode === 'light'
     ? 'Light set · still counts as a night'

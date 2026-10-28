@@ -27,11 +27,14 @@ function checkAll(state, date, today = T, ts = 1) {
 }
 
 test('night cutoff: 1 a.m. counts for the evening before', () => {
-  assert.equal(nightOf(new Date(2026, 9, 6, 1, 0)), '2026-10-05');
-  assert.equal(nightOf(new Date(2026, 9, 6, 5, 0)), '2026-10-06');
-  // The night ends at 3 a.m.
-  assert.equal(nightOf(new Date(2026, 9, 6, 2, 59)), '2026-10-05');
-  assert.equal(nightOf(new Date(2026, 9, 6, 3, 0)), '2026-10-06');
+  // With a 3 a.m. cutoff (the default; tests pin it so your setup can't change them).
+  assert.equal(nightOf(new Date(2026, 9, 6, 1, 0), 3), '2026-10-05');
+  assert.equal(nightOf(new Date(2026, 9, 6, 5, 0), 3), '2026-10-06');
+  assert.equal(nightOf(new Date(2026, 9, 6, 2, 59), 3), '2026-10-05');
+  assert.equal(nightOf(new Date(2026, 9, 6, 3, 0), 3), '2026-10-06');
+  // Another cutoff from setup moves the line.
+  assert.equal(nightOf(new Date(2026, 9, 6, 1, 30), 1), '2026-10-06');
+  assert.equal(nightOf(new Date(2026, 9, 6, 1, 30), 0), '2026-10-06');
 });
 
 test('first night serves day 1; a night counts only when all three are checked', () => {
