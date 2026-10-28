@@ -1,0 +1,27 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "thousand-nights",
+  "main": "src/worker.js",
+  "compatibility_date": "2026-10-01",
+  "assets": {
+    "directory": "./public",
+    "binding": "ASSETS",
+    "not_found_handling": "single-page-application",
+    "run_worker_first": ["/api/*"]
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "thousand-nights",
+      // Paste the id printed by `npx wrangler d1 create thousand-nights` (README step 2).
+      "database_id": "REPLACE_WITH_D1_DATABASE_ID",
+      "migrations_dir": "migrations"
+    }
+  ],
+  // SYNC_KEY is set as a Worker secret (README step 4), so it never lands in the repo.
+  // For local dev, copy .dev.vars.example to .dev.vars (git-ignored).
+  "observability": { "enabled": true },
+  // Night 1 of your run (YYYY-MM-DD). The API refuses progress dated before it.
+  // Set it to the day you start; change it only if you restart from night 1.
+  "vars": { "RESET_FLOOR": "2026-01-01" }
+}

@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>1,000 Nights</title>
+  <meta name="description" content="One poem, one story, one essay, every night.">
+  <meta name="theme-color" content="#12110F">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="1,000 Nights">
+  <link rel="manifest" href="/manifest.webmanifest">
+  <link rel="icon" href="/icons/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;500;600&family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,600;1,7..72,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <div class="ember" aria-hidden="true"><div class="ember-fill"></div></div>
+
+  <main class="wrap">
+    <header class="top">
+      <nav class="datenav" aria-label="Choose night">
+        <button class="navbtn" id="prev" aria-label="Previous night">‹</button>
+        <span class="datelabel" id="datelabel"></span>
+        <button class="navbtn" id="next" aria-label="Next night">›</button>
+      </nav>
+      <button class="sync" id="sync" type="button"></button>
+    </header>
+
+    <form class="keypanel" id="keypanel" hidden>
+      <label for="keyinput">Sync key</label>
+      <p>Paste it once on each device. It stays saved here; your reading syncs between phone and laptop.</p>
+      <div class="keyrow">
+        <input id="keyinput" type="password" autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="k_…" required minlength="24">
+        <button type="submit">Save</button>
+      </div>
+      <p class="keyerr" id="keyerr" hidden>That key was rejected. Check you pasted all of it.</p>
+    </form>
+
+    <section class="hero">
+      <h1 class="night" id="night"></h1>
+      <p class="sub" id="sub"></p>
+    </section>
+
+    <div class="mode" role="radiogroup" aria-label="Tonight's mode">
+      <button role="radio" data-mode="full" class="modebtn">Full</button>
+      <button role="radio" data-mode="light" class="modebtn">Light</button>
+    </div>
+
+    <p class="banner" id="banner" hidden></p>
+    <ol class="items" id="items"></ol>
+    <p class="note" id="note" hidden></p>
+
+    <section class="shelf" id="shelf" hidden aria-labelledby="shelf-h">
+      <h2 class="shelf-h" id="shelf-h">Saved for later</h2>
+      <p class="shelf-sub">Readings you swapped out. Check one off any night; after Night 100 these are what's left.</p>
+      <ol class="items shelf-items" id="shelf-items"></ol>
+    </section>
+
+    <section class="stats" aria-label="Progress">
+      <div class="stat"><span class="k">Streak</span><span class="v" id="s-streak"></span></div>
+      <div class="stat"><span class="k">Nights done</span><span class="v" id="s-total"></span></div>
+      <div class="stat"><span class="k">Light nights</span><span class="v" id="s-light"></span><span class="d" id="s-light30"></span></div>
+      <div class="stat"><span class="k">Full sets</span><span class="v" id="s-full"></span><span class="d">of 1,000</span></div>
+    </section>
+    <p class="ahead" id="ahead" hidden></p>
+
+    <footer class="foot">
+      <div class="foot-row">
+        <button class="ghost" id="export">Export backup</button>
+        <label class="ghost file">Import backup<input type="file" id="import" accept="application/json,.json"></label>
+        <button class="ghost" id="theme">Paper theme</button>
+      </div>
+      <p class="fine">Links open the original source. Nothing is copied here.</p>
+    </footer>
+  </main>
+
+  <audio id="player" preload="none"></audio>
+  <script type="module" src="/app.js"></script>
+</body>
+</html>

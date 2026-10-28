@@ -1,0 +1,19 @@
+{
+  "name": "thousand-nights",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Ray Bradbury's 1,000 nights reading challenge: tracker app, curated content, link verifier.",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build_public.mjs",
+    "dev": "npm run build && node scripts/dev_server.mjs 8787",
+    "test": "node --test test/logic.test.mjs test/worker.test.mjs",
+    "verify": "node scripts/verify_links.mjs",
+    "verify:fix": "node scripts/verify_links.mjs --fix",
+    "content": "node scripts/build_content.mjs"
+  },
+  "devDependencies": {
+    "playwright": "^1.63.0",
+    "wrangler": "^4.147.0"
+  }
+}

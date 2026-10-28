@@ -1,0 +1,5 @@
+# Copy to .dev.vars for `npx wrangler dev`. .dev.vars is git-ignored.
+# DEV_NO_AUTH only works on localhost; production always checks the sync key.
+DEV_NO_AUTH=true
+# Or test the real check locally: remove DEV_NO_AUTH and set a key (24+ chars).
+# SYNC_KEY=k_some-long-random-local-test-key

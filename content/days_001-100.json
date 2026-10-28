@@ -1,0 +1,3563 @@
+{
+  "batch": "001-100",
+  "generated": "2026-10-22",
+  "days": [
+    {
+      "day": 1,
+      "essay_field": "philosophy",
+      "poem": {
+        "id": "d001-poem",
+        "title": "Sonnet 18",
+        "author": "William Shakespeare",
+        "url": "https://www.poetryfoundation.org/poems/45087/sonnet-18-shall-i-compare-thee-to-a-summers-day",
+        "est_minutes": 2,
+        "tag": "Renaissance",
+        "requires_login": false,
+        "login_source": null
+      },
+      "story": {
+        "id": "d001-story",
+        "title": "The Tell-Tale Heart",
+        "author": "Edgar Allan Poe",
+        "url": "https://en.wikisource.org/wiki/Mystery_Tales_of_Edgar_Allan_Poe/The_Tell-Tale_Heart",
+        "est_minutes": 9,
+        "tag": "horror",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 2165
+      },
+      "essay": {
+        "id": "d001-essay",
+        "title": "Why Stoicism is one of the best mind-hacks ever devised",
+        "author": "Lary Wallace",
+        "url": "https://aeon.co/essays/why-stoicism-is-one-of-the-best-mind-hacks-ever-devised",
+        "est_minutes": 9,
+        "tag": "philosophy",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 2,
+      "essay_field": "biology",
+      "poem": {
+        "id": "d002-poem",
+        "title": "The Road Not Taken",
+        "author": "Robert Frost",
+        "url": "https://www.poetryfoundation.org/poems/44272/the-road-not-taken",
+        "est_minutes": 2,
+        "tag": "Modern",
+        "requires_login": false,
+        "login_source": null,
+        "audio_url": "https://s3-us-east-2.amazonaws.com/cdn.poetryfoundation.org/content/audio/22208df9f0df9b4e6d3e267b60d17d43f20252f3.mp3"
+      },
+      "story": {
+        "id": "d002-story",
+        "title": "The White Ship",
+        "author": "H. P. Lovecraft",
+        "url": "https://standardebooks.org/ebooks/h-p-lovecraft/short-fiction/text/the-white-ship",
+        "est_minutes": 11,
+        "tag": "fantasy",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 2527
+      },
+      "essay": {
+        "id": "d002-essay",
+        "title": "Intelligence Evolved at Least Twice in Vertebrate Animals",
+        "author": "Yasemin Saplakoglu",
+        "url": "https://www.quantamagazine.org/intelligence-evolved-at-least-twice-in-vertebrate-animals-20250407/",
+        "est_minutes": 8,
+        "tag": "biology",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 3,
+      "essay_field": "history",
+      "poem": {
+        "id": "d003-poem",
+        "title": "Ode on Solitude",
+        "author": "Alexander Pope",
+        "url": "https://www.poetryfoundation.org/poems/46561/ode-on-solitude",
+        "est_minutes": 2,
+        "tag": "18th century",
+        "requires_login": false,
+        "login_source": null
+      },
+      "story": {
+        "id": "d003-story",
+        "title": "The Bet",
+        "author": "Anton Chekhov",
+        "url": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett/text/the-bet",
+        "est_minutes": 12,
+        "tag": "literary",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 2834
+      },
+      "essay": {
+        "id": "d003-essay",
+        "title": "Gobekli Tepe: The World’s First Temple?",
+        "author": "Andrew Curry",
+        "url": "https://www.smithsonianmag.com/history/gobekli-tepe-the-worlds-first-temple-83613665/",
+        "est_minutes": 9,
+        "tag": "history",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 2096
+      }
+    },
+    {
+      "day": 4,
+      "essay_field": "politics",
+      "poem": {
+        "id": "d004-poem",
+        "title": "Fragment 31",
+        "author": "Sappho",
+        "url": "https://www.poetryfoundation.org/poems/1599429/fragment-31",
+        "est_minutes": 2,
+        "tag": "Ancient",
+        "requires_login": false,
+        "login_source": null
+      },
+      "story": {
+        "id": "d004-story",
+        "title": "The Gift of the Magi",
+        "author": "O. Henry",
+        "url": "https://standardebooks.org/ebooks/o-henry/short-fiction/text/the-gift-of-the-magi",
+        "est_minutes": 9,
+        "tag": "literary",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 2064
+      },
+      "essay": {
+        "id": "d004-essay",
+        "title": "You and the Atom Bomb",
+        "author": "George Orwell",
+        "url": "https://orwellfoundation.com/george-orwell/by-orwell/essays-and-other-works/you-and-the-atom-bomb/",
+        "est_minutes": 7,
+        "tag": "politics",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 5,
+      "essay_field": "literary criticism",
+      "poem": {
+        "id": "d005-poem",
+        "title": "Because I could not stop for Death",
+        "author": "Emily Dickinson",
+        "url": "https://www.poetryfoundation.org/poems/47652/because-i-could-not-stop-for-death-479",
+        "est_minutes": 2,
+        "tag": "19th-century American",
+        "requires_login": false,
+        "login_source": null,
+        "audio_url": "https://s3-us-east-2.amazonaws.com/cdn.poetryfoundation.org/content/audio/be450ab002e3901ecd8402513f722fff31f9cffd.mp3"
+      },
+      "story": {
+        "id": "d005-story",
+        "title": "Désirée’s Baby",
+        "author": "Kate Chopin",
+        "url": "https://standardebooks.org/ebooks/kate-chopin/short-fiction/text/desirees-baby",
+        "est_minutes": 9,
+        "tag": "literary",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 2144
+      },
+      "essay": {
+        "id": "d005-essay",
+        "title": "The Patron and the Crocus",
+        "author": "Virginia Woolf",
+        "url": "https://monadnock.net/woolf/patron.html",
+        "est_minutes": 6,
+        "tag": "literary criticism",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 6,
+      "essay_field": "economics",
+      "poem": {
+        "id": "d006-poem",
+        "title": "Ode to a Nightingale",
+        "author": "John Keats",
+        "url": "https://www.poetryfoundation.org/poems/44479/ode-to-a-nightingale",
+        "est_minutes": 4,
+        "tag": "Romantic",
+        "requires_login": false,
+        "login_source": null
+      },
+      "story": {
+        "id": "d006-story",
+        "title": "The Open Window",
+        "author": "Saki",
+        "url": "https://standardebooks.org/ebooks/saki/short-fiction/text/the-open-window",
+        "est_minutes": 5,
+        "tag": "comedy",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 1208
+      },
+      "essay": {
+        "id": "d006-essay",
+        "title": "The Broken Window",
+        "author": "Frédéric Bastiat",
+        "url": "https://monadnock.net/bastiat/window.html",
+        "est_minutes": 4,
+        "tag": "economics",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 7,
+      "essay_field": "physics & math",
+      "poem": {
+        "id": "d007-poem",
+        "title": "The Second Coming",
+        "author": "William Butler Yeats",
+        "url": "https://www.poetryfoundation.org/poems/43290/the-second-coming",
+        "est_minutes": 2,
+        "tag": "Modern",
+        "requires_login": false,
+        "login_source": null,
+        "audio_url": "https://s3-us-east-2.amazonaws.com/cdn.poetryfoundation.org/content/audio/ee804b10aeb01a821c7e926f4cbb3049267eb539.mp3"
+      },
+      "story": {
+        "id": "d007-story",
+        "title": "Dr. Heidegger’s Experiment",
+        "author": "Nathaniel Hawthorne",
+        "url": "https://en.wikisource.org/wiki/Twice-Told_Tales_(1837)/Dr._Heidegger's_Experiment",
+        "est_minutes": 16,
+        "tag": "fantasy",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 3733
+      },
+      "essay": {
+        "id": "d007-essay",
+        "title": "What Do Gödel’s Incompleteness Theorems Truly Mean?",
+        "author": "Natalie Wolchover",
+        "url": "https://www.quantamagazine.org/what-do-godels-incompleteness-theorems-truly-mean-20260518/",
+        "est_minutes": 10,
+        "tag": "physics & math",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 8,
+      "essay_field": "psychology",
+      "poem": {
+        "id": "d008-poem",
+        "title": "The Jewel Stairs’ Grievance",
+        "author": "Li Bai",
+        "url": "https://www.poetryfoundation.org/poems/48687/the-jewel-stairs-grievance",
+        "est_minutes": 1,
+        "tag": "Ancient",
+        "requires_login": false,
+        "login_source": null
+      },
+      "story": {
+        "id": "d008-story",
+        "title": "An Occurrence at Owl Creek Bridge",
+        "author": "Ambrose Bierce",
+        "url": "https://standardebooks.org/ebooks/ambrose-bierce/in-the-midst-of-life/text/an-occurrence-at-owl-creek-bridge",
+        "est_minutes": 16,
+        "tag": "war",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 3716
+      },
+      "essay": {
+        "id": "d008-essay",
+        "title": "Why do crowds make our emotional experiences more intense?",
+        "author": "John Drury",
+        "url": "https://psyche.co/ideas/being-in-a-crowd-doesnt-make-you-part-of-a-mindless-mob",
+        "est_minutes": 9,
+        "tag": "psychology",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 9,
+      "essay_field": "art",
+      "poem": {
+        "id": "d009-poem",
+        "title": "Holy Sonnets: Death, be not proud",
+        "author": "John Donne",
+        "url": "https://www.poetryfoundation.org/poems/44107/holy-sonnets-death-be-not-proud",
+        "est_minutes": 2,
+        "tag": "17th century",
+        "requires_login": false,
+        "login_source": null
+      },
+      "story": {
+        "id": "d009-story",
+        "title": "The Necklace",
+        "author": "Guy de Maupassant",
+        "url": "https://standardebooks.org/ebooks/guy-de-maupassant/short-fiction/various-translators/text/the-necklace",
+        "est_minutes": 12,
+        "tag": "literary",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 2811
+      },
+      "essay": {
+        "id": "d009-essay",
+        "title": "The Human Scale",
+        "author": "George Santayana",
+        "url": "https://monadnock.net/santayana/human-scale.html",
+        "est_minutes": 6,
+        "tag": "art",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 10,
+      "essay_field": "wildcard",
+      "note": "Pair night: Seneca on time. Tomorrow, Montaigne on death and happiness answers him.",
+      "poem": {
+        "id": "d010-poem",
+        "title": "The Negro Speaks of Rivers",
+        "author": "Langston Hughes",
+        "url": "https://www.poetryfoundation.org/poems/44428/the-negro-speaks-of-rivers",
+        "est_minutes": 2,
+        "tag": "Modern",
+        "requires_login": false,
+        "login_source": null
+      },
+      "story": {
+        "id": "d010-story",
+        "title": "The Law of Life",
+        "author": "Jack London",
+        "url": "https://en.wikisource.org/wiki/Children_of_the_Frost/The_Law_of_Life",
+        "est_minutes": 12,
+        "tag": "adventure",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 2857
+      },
+      "essay": {
+        "id": "d010-essay",
+        "title": "Letter 1: On Saving Time",
+        "author": "Seneca",
+        "url": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_1",
+        "est_minutes": 2,
+        "tag": "philosophy",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 11,
+      "essay_field": "philosophy",
+      "note": "Pair night: compare with Seneca (night 10).",
+      "poem": {
+        "id": "d011-poem",
+        "title": "One Art",
+        "author": "Elizabeth Bishop",
+        "url": "https://www.poetryfoundation.org/poems/47536/one-art",
+        "est_minutes": 2,
+        "tag": "Modern",
+        "requires_login": false,
+        "login_source": null,
+        "audio_url": "https://s3-us-east-2.amazonaws.com/cdn.poetryfoundation.org/content/audio/659071623f601aa44bc82c5b082a796ac55c8054.mp3"
+      },
+      "story": {
+        "id": "d011-story",
+        "title": "A Hunger Artist",
+        "author": "Franz Kafka",
+        "url": "https://americanliterature.com/author/franz-kafka/short-story/a-hunger-artist",
+        "est_minutes": 24,
+        "tag": "literary",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 5583
+      },
+      "essay": {
+        "id": "d011-essay",
+        "title": "That Men Are Not to Judge of Our Happiness till after Death",
+        "author": "Michel de Montaigne",
+        "url": "https://monadnock.net/montaigne/happiness2.html",
+        "est_minutes": 4,
+        "tag": "philosophy",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 12,
+      "essay_field": "biology",
+      "poem": {
+        "id": "d012-poem",
+        "title": "Sonnet 73",
+        "author": "William Shakespeare",
+        "url": "https://www.poetryfoundation.org/poems/45099/sonnet-73-that-time-of-year-thou-mayst-in-me-behold",
+        "est_minutes": 2,
+        "tag": "Renaissance",
+        "requires_login": false,
+        "login_source": null
+      },
+      "story": {
+        "id": "d012-story",
+        "title": "The Monkey’s Paw",
+        "author": "W. W. Jacobs",
+        "url": "https://standardebooks.org/ebooks/w-w-jacobs/the-lady-of-the-barge/text/the-monkeys-paw",
+        "est_minutes": 17,
+        "tag": "horror",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 3927
+      },
+      "essay": {
+        "id": "d012-essay",
+        "title": "Why Aging May Be a Program, Not a Breakdown",
+        "author": "Ingrid Wickelgren",
+        "url": "https://www.quantamagazine.org/why-aging-may-be-a-program-not-a-breakdown-20260814/",
+        "est_minutes": 8,
+        "tag": "biology",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 13,
+      "essay_field": "history",
+      "poem": {
+        "id": "d013-poem",
+        "title": "I wandered lonely as a cloud",
+        "author": "William Wordsworth",
+        "url": "https://www.poetryfoundation.org/poems/45521/i-wandered-lonely-as-a-cloud",
+        "est_minutes": 2,
+        "tag": "Romantic",
+        "requires_login": false,
+        "login_source": null,
+        "audio_url": "https://s3-us-east-2.amazonaws.com/cdn.poetryfoundation.org/content/audio/529cdf6a768abe7f53b0e4b0560817abf1702580.mp3"
+      },
+      "story": {
+        "id": "d013-story",
+        "title": "The Celebrated Jumping Frog of Calaveras County",
+        "author": "Mark Twain",
+        "url": "https://en.wikisource.org/wiki/The_Celebrated_Jumping_Frog_of_Calaveras_County%2C_and_Other_Sketches/The_Celebrated_Jumping_Frog_of_Calaveras_County",
+        "est_minutes": 12,
+        "tag": "comedy",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 2710
+      },
+      "essay": {
+        "id": "d013-essay",
+        "title": "Thucydides the perspicacious",
+        "author": "David Polansky",
+        "url": "https://aeon.co/essays/thucydides-account-of-war-is-as-timely-as-it-is-misunderstood",
+        "est_minutes": 15,
+        "tag": "history",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 3680
+      }
+    },
+    {
+      "day": 14,
+      "essay_field": "politics",
+      "poem": {
+        "id": "d014-poem",
+        "title": "Stopping by Woods on a Snowy Evening",
+        "author": "Robert Frost",
+        "url": "https://www.poetryfoundation.org/poems/42891/stopping-by-woods-on-a-snowy-evening",
+        "est_minutes": 2,
+        "tag": "Modern",
+        "requires_login": false,
+        "login_source": null
+      },
+      "story": {
+        "id": "d014-story",
+        "title": "Araby",
+        "author": "James Joyce",
+        "url": "https://standardebooks.org/ebooks/james-joyce/dubliners/text/araby",
+        "est_minutes": 10,
+        "tag": "literary",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 2307
+      },
+      "essay": {
+        "id": "d014-essay",
+        "title": "The Federalist No. 10",
+        "author": "James Madison",
+        "url": "https://avalon.law.yale.edu/18th_century/fed10.asp",
+        "est_minutes": 13,
+        "tag": "politics",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 15,
+      "essay_field": "literary criticism",
+      "poem": {
+        "id": "d015-poem",
+        "title": "When I Heard the Learn’d Astronomer",
+        "author": "Walt Whitman",
+        "url": "https://www.poetryfoundation.org/poems/45479/when-i-heard-the-learnd-astronomer",
+        "est_minutes": 1,
+        "tag": "19th-century American",
+        "requires_login": false,
+        "login_source": null,
+        "audio_url": "https://s3-us-east-2.amazonaws.com/cdn.poetryfoundation.org/content/audio/2250c6125211bc6e8ff2ca38e275a8216eabb235.mp3"
+      },
+      "story": {
+        "id": "d015-story",
+        "title": "2 B R 0 2 B",
+        "author": "Kurt Vonnegut",
+        "url": "https://www.gutenberg.org/files/21279/21279-h/21279-h.htm",
+        "est_minutes": 11,
+        "tag": "science fiction",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 2490
+      },
+      "essay": {
+        "id": "d015-essay",
+        "title": "Confessions of a Book Reviewer",
+        "author": "George Orwell",
+        "url": "https://orwellfoundation.com/george-orwell/by-orwell/essays-and-other-works/confessions-of-a-book-reviewer/",
+        "est_minutes": 7,
+        "tag": "literary criticism",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 16,
+      "essay_field": "economics",
+      "poem": {
+        "id": "d016-poem",
+        "title": "Ode I, 5: To Pyrrha",
+        "author": "Horace",
+        "url": "https://www.poetryfoundation.org/poems/50372/ode-i-5-to-pyrrha",
+        "est_minutes": 1,
+        "tag": "Ancient",
+        "requires_login": false,
+        "login_source": null
+      },
+      "story": {
+        "id": "d016-story",
+        "title": "Miss Brill",
+        "author": "Katherine Mansfield",
+        "url": "https://en.wikisource.org/wiki/The_Garden_Party%2C_and_Other_Stories/Miss_Brill",
+        "est_minutes": 9,
+        "tag": "literary",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 2001
+      },
+      "essay": {
+        "id": "d016-essay",
+        "title": "Of the Division of Labour",
+        "author": "Adam Smith",
+        "url": "https://en.wikisource.org/wiki/The_Wealth_of_Nations/Book_I/Chapter_1",
+        "est_minutes": 15,
+        "tag": "economics",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 17,
+      "essay_field": "physics & math",
+      "poem": {
+        "id": "d017-poem",
+        "title": "The Sick Rose",
+        "author": "William Blake",
+        "url": "https://www.poetryfoundation.org/poems/43682/the-sick-rose",
+        "est_minutes": 2,
+        "tag": "Romantic",
+        "requires_login": false,
+        "login_source": null
+      },
+      "story": {
+        "id": "d017-story",
+        "title": "Three Questions",
+        "author": "Leo Tolstoy",
+        "url": "https://standardebooks.org/ebooks/leo-tolstoy/short-fiction/various-translators/text/three-questions",
+        "est_minutes": 7,
+        "tag": "fable",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 1559
+      },
+      "essay": {
+        "id": "d017-essay",
+        "title": "Why Mathematical Proof Is a Social Compact",
+        "author": "Jordana Cepelewicz",
+        "url": "https://www.quantamagazine.org/why-mathematical-proof-is-a-social-compact-20230831/",
+        "est_minutes": 12,
+        "tag": "physics & math",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 18,
+      "essay_field": "psychology",
+      "poem": {
+        "id": "d018-poem",
+        "title": "won’t you celebrate with me",
+        "author": "Lucille Clifton",
+        "url": "https://www.poetryfoundation.org/poems/50974/wont-you-celebrate-with-me",
+        "est_minutes": 1,
+        "tag": "Contemporary",
+        "requires_login": false,
+        "login_source": null,
+        "audio_url": "https://s3-us-east-2.amazonaws.com/cdn.poetryfoundation.org/content/audio/acdf0e8b43b4fddf9db066c147b44dfcaf23dc03.mp3"
+      },
+      "story": {
+        "id": "d018-story",
+        "title": "The Nightingale and the Rose",
+        "author": "Oscar Wilde",
+        "url": "https://standardebooks.org/ebooks/oscar-wilde/childrens-stories/text/the-nightingale-and-the-rose",
+        "est_minutes": 10,
+        "tag": "fairy tale",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 2319
+      },
+      "essay": {
+        "id": "d018-essay",
+        "title": "Your deepest regrets help you see yourself more clearly",
+        "author": "Joshua Halberstam",
+        "url": "https://psyche.co/ideas/your-deepest-regrets-help-you-see-yourself-more-clearly",
+        "est_minutes": 2,
+        "tag": "psychology",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 19,
+      "essay_field": "art",
+      "poem": {
+        "id": "d019-poem",
+        "title": "An Essay on Man: Epistle II",
+        "author": "Alexander Pope",
+        "url": "https://www.poetryfoundation.org/poems/44900/an-essay-on-man-epistle-ii",
+        "est_minutes": 10,
+        "tag": "18th century",
+        "requires_login": false,
+        "login_source": null
+      },
+      "story": {
+        "id": "d019-story",
+        "title": "Dagon",
+        "author": "H. P. Lovecraft",
+        "url": "https://standardebooks.org/ebooks/h-p-lovecraft/short-fiction/text/dagon",
+        "est_minutes": 10,
+        "tag": "horror",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 2213
+      },
+      "essay": {
+        "id": "d019-essay",
+        "title": "Conclusion to The Renaissance",
+        "author": "Walter Pater",
+        "url": "https://victorianweb.org/authors/pater/renaissance/conclusion.html",
+        "est_minutes": 7,
+        "tag": "art",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 20,
+      "essay_field": "wildcard",
+      "poem": {
+        "id": "d020-poem",
+        "title": "Ozymandias",
+        "author": "Percy Bysshe Shelley",
+        "url": "https://www.poetryfoundation.org/poems/46565/ozymandias",
+        "est_minutes": 1,
+        "tag": "Romantic",
+        "requires_login": false,
+        "login_source": null,
+        "audio_url": "https://s3-us-east-2.amazonaws.com/cdn.poetryfoundation.org/content/audio/3d036414c5d27193b6e88595214656abd77de8cd.mp3"
+      },
+      "story": {
+        "id": "d020-story",
+        "title": "Selkie Stories Are for Losers",
+        "author": "Sofia Samatar",
+        "url": "https://strangehorizons.com/fiction/selkie-stories-are-for-losers/",
+        "est_minutes": 13,
+        "tag": "fantasy",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 3084
+      },
+      "essay": {
+        "id": "d020-essay",
+        "title": "Good and Bad Procrastination",
+        "author": "Paul Graham",
+        "url": "https://paulgraham.com/procrastination.html",
+        "est_minutes": 8,
+        "tag": "wildcard",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 21,
+      "essay_field": "philosophy",
+      "poem": {
+        "id": "d021-poem",
+        "title": "Ulysses",
+        "author": "Alfred, Lord Tennyson",
+        "url": "https://www.poetryfoundation.org/poems/45392/ulysses",
+        "est_minutes": 4,
+        "tag": "Victorian",
+        "requires_login": false,
+        "login_source": null,
+        "audio_url": "https://s3-us-east-2.amazonaws.com/cdn.poetryfoundation.org/content/audio/4144f13a546a34009603d2f7cd4063f027844e08.mp3"
+      },
+      "story": {
+        "id": "d021-story",
+        "title": "The Bride Comes to Yellow Sky",
+        "author": "Stephen Crane",
+        "url": "https://en.wikisource.org/wiki/The_Bride_Comes_to_Yellow_Sky",
+        "est_minutes": 19,
+        "tag": "western",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 4430
+      },
+      "essay": {
+        "id": "d021-essay",
+        "title": "That We Taste Nothing Pure",
+        "author": "Michel de Montaigne",
+        "url": "https://monadnock.net/montaigne/taste2.html",
+        "est_minutes": 5,
+        "tag": "philosophy",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 22,
+      "essay_field": "biology",
+      "poem": {
+        "id": "d022-poem",
+        "title": "Wake, butterfly",
+        "author": "Bashō",
+        "url": "https://www.poetryfoundation.org/poems/1650745/75-wake-butterfly",
+        "est_minutes": 1,
+        "tag": "Ancient",
+        "requires_login": false,
+        "login_source": null
+      },
+      "story": {
+        "id": "d022-story",
+        "title": "Misery",
+        "author": "Anton Chekhov",
+        "url": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett/text/misery",
+        "est_minutes": 9,
+        "tag": "literary",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 2146
+      },
+      "essay": {
+        "id": "d022-essay",
+        "title": "What Can a Cell Remember?",
+        "author": "Claire L. Evans",
+        "url": "https://www.quantamagazine.org/what-can-a-cell-remember-20250730/",
+        "est_minutes": 13,
+        "tag": "biology",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 23,
+      "essay_field": "history",
+      "poem": {
+        "id": "d023-poem",
+        "title": "Sonnet 116",
+        "author": "William Shakespeare",
+        "url": "https://www.poetryfoundation.org/poems/45106/sonnet-116-let-me-not-to-the-marriage-of-true-minds",
+        "est_minutes": 2,
+        "tag": "Renaissance",
+        "requires_login": false,
+        "login_source": null,
+        "audio_url": "https://s3-us-east-2.amazonaws.com/cdn.poetryfoundation.org/content/audio/60c8651d3c0d09ee77ec7d4681bffdda4e2f2b4e.mp3"
+      },
+      "story": {
+        "id": "d023-story",
+        "title": "The Cask of Amontillado",
+        "author": "Edgar Allan Poe",
+        "url": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction/text/the-cask-of-amontillado",
+        "est_minutes": 10,
+        "tag": "horror",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 2234
+      },
+      "essay": {
+        "id": "d023-essay",
+        "title": "The Great Majority: Body Snatching and Burial Reform in 19th-Century Britain",
+        "author": "Roger Luckhurst",
+        "url": "https://publicdomainreview.org/essay/the-great-majority/",
+        "est_minutes": 15,
+        "tag": "history",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 3621
+      }
+    },
+    {
+      "day": 24,
+      "essay_field": "politics",
+      "poem": {
+        "id": "d024-poem",
+        "title": "Pied Beauty",
+        "author": "Gerard Manley Hopkins",
+        "url": "https://www.poetryfoundation.org/poems/44399/pied-beauty",
+        "est_minutes": 1,
+        "tag": "Victorian",
+        "requires_login": false,
+        "login_source": null,
+        "audio_url": "https://s3-us-east-2.amazonaws.com/cdn.poetryfoundation.org/content/audio/d578f33ea534692c3bb25de48d3d37ac79712e51.mp3"
+      },
+      "story": {
+        "id": "d024-story",
+        "title": "A White Heron",
+        "author": "Sarah Orne Jewett",
+        "url": "https://en.wikisource.org/wiki/A_White_Heron",
+        "est_minutes": 19,
+        "tag": "literary",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 4330
+      },
+      "essay": {
+        "id": "d024-essay",
+        "title": "Address to the Federal Convention",
+        "author": "Benjamin Franklin",
+        "url": "https://monadnock.net/franklin/federal.html",
+        "est_minutes": 3,
+        "tag": "politics",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 25,
+      "essay_field": "literary criticism",
+      "poem": {
+        "id": "d025-poem",
+        "title": "Mending Wall",
+        "author": "Robert Frost",
+        "url": "https://www.poetryfoundation.org/poems/44266/mending-wall",
+        "est_minutes": 2,
+        "tag": "Modern",
+        "requires_login": false,
+        "login_source": null,
+        "audio_url": "https://s3-us-east-2.amazonaws.com/cdn.poetryfoundation.org/content/audio/2f9a8d1e60cba2827ad87333138ca83a47c465ff.mp3"
+      },
+      "story": {
+        "id": "d025-story",
+        "title": "John Mortonson’s Funeral",
+        "author": "Ambrose Bierce",
+        "url": "https://standardebooks.org/ebooks/ambrose-bierce/can-such-things-be/text/john-mortonsons-funeral",
+        "est_minutes": 2,
+        "tag": "dark comedy",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 541
+      },
+      "essay": {
+        "id": "d025-essay",
+        "title": "Politics and the English Language",
+        "author": "George Orwell",
+        "url": "https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/",
+        "est_minutes": 24,
+        "tag": "literary criticism",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 26,
+      "essay_field": "economics",
+      "poem": {
+        "id": "d026-poem",
+        "title": "Remember",
+        "author": "Christina Rossetti",
+        "url": "https://www.poetryfoundation.org/poems/45000/remember-56d224509b7ae",
+        "est_minutes": 1,
+        "tag": "Victorian",
+        "requires_login": false,
+        "login_source": null,
+        "audio_url": "https://s3-us-east-2.amazonaws.com/cdn.poetryfoundation.org/content/audio/e31c3311416f9cc428bdce4a085781d9092a36c4.mp3"
+      },
+      "story": {
+        "id": "d026-story",
+        "title": "Hands",
+        "author": "Sherwood Anderson",
+        "url": "https://standardebooks.org/ebooks/sherwood-anderson/winesburg-ohio/text/hands",
+        "est_minutes": 10,
+        "tag": "literary",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 2353
+      },
+      "essay": {
+        "id": "d026-essay",
+        "title": "Of the Middle Station of Life",
+        "author": "David Hume",
+        "url": "https://monadnock.net/hume/middle.html",
+        "est_minutes": 8,
+        "tag": "economics",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 27,
+      "essay_field": "physics & math",
+      "poem": {
+        "id": "d027-poem",
+        "title": "The Snow Man",
+        "author": "Wallace Stevens",
+        "url": "https://www.poetryfoundation.org/poems/45235/the-snow-man-56d224a6d4e90",
+        "est_minutes": 1,
+        "tag": "Modern",
+        "requires_login": false,
+        "login_source": null,
+        "audio_url": "https://s3-us-east-2.amazonaws.com/cdn.poetryfoundation.org/content/audio/a4b4956865c7cfdc23d7f8d8eb83946efc9c6f1a.mp3"
+      },
+      "story": {
+        "id": "d027-story",
+        "title": "Cat in the Rain",
+        "author": "Ernest Hemingway",
+        "url": "https://standardebooks.org/ebooks/ernest-hemingway/short-fiction/text/cat-in-the-rain",
+        "est_minutes": 5,
+        "tag": "literary",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 1129
+      },
+      "essay": {
+        "id": "d027-essay",
+        "title": "How Can Infinity Come in Many Sizes?",
+        "author": "Mark Belan",
+        "url": "https://www.quantamagazine.org/how-can-infinity-come-in-many-sizes-20260223/",
+        "est_minutes": 12,
+        "tag": "physics & math",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 28,
+      "essay_field": "psychology",
+      "poem": {
+        "id": "d028-poem",
+        "title": "To the Virgins, to Make Much of Time",
+        "author": "Robert Herrick",
+        "url": "https://www.poetryfoundation.org/poems/46546/to-the-virgins-to-make-much-of-time",
+        "est_minutes": 1,
+        "tag": "17th century",
+        "requires_login": false,
+        "login_source": null
+      },
+      "story": {
+        "id": "d028-story",
+        "title": "Kew Gardens",
+        "author": "Virginia Woolf",
+        "url": "https://en.wikisource.org/wiki/Kew_Gardens_(1919)",
+        "est_minutes": 12,
+        "tag": "modernist",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 2797
+      },
+      "essay": {
+        "id": "d028-essay",
+        "title": "Why long-brewing physical and mental breakdowns feel so sudden",
+        "author": "Sasi S Senga",
+        "url": "https://psyche.co/ideas/why-long-brewing-physical-and-mental-breakdowns-feel-so-sudden",
+        "est_minutes": 8,
+        "tag": "psychology",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 29,
+      "essay_field": "art",
+      "poem": {
+        "id": "d029-poem",
+        "title": "Do not go gentle into that good night",
+        "author": "Dylan Thomas",
+        "url": "https://www.poetryfoundation.org/poems/46569/do-not-go-gentle-into-that-good-night",
+        "est_minutes": 2,
+        "tag": "Modern",
+        "requires_login": false,
+        "login_source": null
+      },
+      "story": {
+        "id": "d029-story",
+        "title": "Sredni Vashtar",
+        "author": "Saki",
+        "url": "https://standardebooks.org/ebooks/saki/short-fiction/text/sredni-vashtar",
+        "est_minutes": 8,
+        "tag": "dark comedy",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 1781
+      },
+      "essay": {
+        "id": "d029-essay",
+        "title": "Veronese’s Dogs",
+        "author": "Thomas W. Laqueur",
+        "url": "https://publicdomainreview.org/essay/veroneses-dogs/",
+        "est_minutes": 17,
+        "tag": "art",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 30,
+      "essay_field": "wildcard",
+      "note": "Pair night: Emerson on gifts. Tomorrow, Virginia Woolf on his friend Thoreau.",
+      "poem": {
+        "id": "d030-poem",
+        "title": "Where did the handsome beloved go",
+        "author": "Jalal al-Din Rumi",
+        "url": "https://www.poetryfoundation.org/poetrymagazine/poems/144612/where-did-the-handsome-beloved-go",
+        "est_minutes": 2,
+        "tag": "Medieval",
+        "requires_login": false,
+        "login_source": null
+      },
+      "story": {
+        "id": "d030-story",
+        "title": "Beyond Lies the Wub",
+        "author": "Philip K. Dick",
+        "url": "https://www.gutenberg.org/files/28554/28554-h/28554-h.htm",
+        "est_minutes": 11,
+        "tag": "science fiction",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 2566
+      },
+      "essay": {
+        "id": "d030-essay",
+        "title": "Gifts",
+        "author": "Ralph Waldo Emerson",
+        "url": "https://monadnock.net/emerson/gifts.html",
+        "est_minutes": 6,
+        "tag": "philosophy",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 31,
+      "essay_field": "philosophy",
+      "note": "Pair night: Woolf on Thoreau, the friend Emerson (night 30) shaped and argued with.",
+      "poem": {
+        "id": "d031-poem",
+        "title": "Dover Beach",
+        "author": "Matthew Arnold",
+        "url": "https://www.poetryfoundation.org/poems/43588/dover-beach",
+        "est_minutes": 2,
+        "tag": "Victorian",
+        "requires_login": false,
+        "login_source": null
+      },
+      "story": {
+        "id": "d031-story",
+        "title": "A Warrior’s Daughter",
+        "author": "Zitkála-Šá",
+        "url": "https://standardebooks.org/ebooks/zitkala-sa/american-indian-stories/text/a-warriors-daughter",
+        "est_minutes": 13,
+        "tag": "literary",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 2970
+      },
+      "essay": {
+        "id": "d031-essay",
+        "title": "Thoreau",
+        "author": "Virginia Woolf",
+        "url": "https://monadnock.net/woolf/thoreau.html",
+        "est_minutes": 13,
+        "tag": "philosophy",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 32,
+      "essay_field": "biology",
+      "poem": {
+        "id": "d032-poem",
+        "title": "This Is Just To Say",
+        "author": "William Carlos Williams",
+        "url": "https://www.poetryfoundation.org/poems/56159/this-is-just-to-say",
+        "est_minutes": 1,
+        "tag": "Modern",
+        "requires_login": false,
+        "login_source": null
+      },
+      "story": {
+        "id": "d032-story",
+        "title": "Po’ Sandy",
+        "author": "Charles W. Chesnutt",
+        "url": "https://standardebooks.org/ebooks/charles-w-chesnutt/the-conjure-woman/text/po-sandy",
+        "est_minutes": 20,
+        "tag": "folk tale",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 4512
+      },
+      "essay": {
+        "id": "d032-essay",
+        "title": "Most Life on Earth Is Dormant, After Pulling an Emergency Brake",
+        "author": "Dan Samorodnitsky",
+        "url": "https://www.quantamagazine.org/most-life-on-earth-is-dormant-after-pulling-an-emergency-brake-20240605/",
+        "est_minutes": 7,
+        "tag": "biology",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 33,
+      "essay_field": "history",
+      "poem": {
+        "id": "d033-poem",
+        "title": "To His Coy Mistress",
+        "author": "Andrew Marvell",
+        "url": "https://www.poetryfoundation.org/poems/44688/to-his-coy-mistress",
+        "est_minutes": 3,
+        "tag": "17th century",
+        "requires_login": false,
+        "login_source": null,
+        "audio_url": "https://s3-us-east-2.amazonaws.com/cdn.poetryfoundation.org/content/audio/d5951d6cf05fcfbdf0dfab3b6830c8196a99e9fb.mp3"
+      },
+      "story": {
+        "id": "d033-story",
+        "title": "After Twenty Years",
+        "author": "O. Henry",
+        "url": "https://standardebooks.org/ebooks/o-henry/short-fiction/text/after-twenty-years",
+        "est_minutes": 5,
+        "tag": "twist",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 1261
+      },
+      "essay": {
+        "id": "d033-essay",
+        "title": "When Dancing Plagues Struck Medieval Europe",
+        "author": "Catherine Halley",
+        "url": "https://daily.jstor.org/when-dancing-plagues-struck-medieval-europe/",
+        "est_minutes": 3,
+        "tag": "history",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 952
+      }
+    },
+    {
+      "day": 34,
+      "essay_field": "politics",
+      "poem": {
+        "id": "d034-poem",
+        "title": "Sonnet 29",
+        "author": "William Shakespeare",
+        "url": "https://www.poetryfoundation.org/poems/45090/sonnet-29-when-in-disgrace-with-fortune-and-mens-eyes",
+        "est_minutes": 2,
+        "tag": "Renaissance",
+        "requires_login": false,
+        "login_source": null,
+        "audio_url": "https://s3-us-east-2.amazonaws.com/cdn.poetryfoundation.org/content/audio/0ee3bc71d43bc6fdbb18a5cdfafe90a0e1d0db1c.mp3"
+      },
+      "story": {
+        "id": "d034-story",
+        "title": "An Encounter",
+        "author": "James Joyce",
+        "url": "https://standardebooks.org/ebooks/james-joyce/dubliners/text/an-encounter",
+        "est_minutes": 14,
+        "tag": "literary",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 3251
+      },
+      "essay": {
+        "id": "d034-essay",
+        "title": "Upend the trickle-down",
+        "author": "Les Coleman",
+        "url": "https://aeon.co/essays/why-western-democracy-is-ailing-and-how-to-fix-it",
+        "est_minutes": 14,
+        "tag": "politics",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 35,
+      "essay_field": "literary criticism",
+      "poem": {
+        "id": "d035-poem",
+        "title": "Those Winter Sundays",
+        "author": "Robert Hayden",
+        "url": "https://www.poetryfoundation.org/poems/46461/those-winter-sundays",
+        "est_minutes": 1,
+        "tag": "Modern",
+        "requires_login": false,
+        "login_source": null
+      },
+      "story": {
+        "id": "d035-story",
+        "title": "A Work of Art",
+        "author": "Anton Chekhov",
+        "url": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett/text/a-work-of-art",
+        "est_minutes": 6,
+        "tag": "comedy",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 1489
+      },
+      "essay": {
+        "id": "d035-essay",
+        "title": "Tradition and the Individual Talent",
+        "author": "T. S. Eliot",
+        "url": "https://www.poetryfoundation.org/articles/69400/tradition-and-the-individual-talent",
+        "est_minutes": 20,
+        "tag": "literary criticism",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 36,
+      "essay_field": "economics",
+      "poem": {
+        "id": "d036-poem",
+        "title": "Birches",
+        "author": "Robert Frost",
+        "url": "https://www.poetryfoundation.org/poems/44260/birches",
+        "est_minutes": 3,
+        "tag": "Modern",
+        "requires_login": false,
+        "login_source": null
+      },
+      "story": {
+        "id": "d036-story",
+        "title": "The Postmaster",
+        "author": "Rabindranath Tagore",
+        "url": "https://en.wikisource.org/wiki/Mashi_and_Other_Stories/The_Postmaster",
+        "est_minutes": 10,
+        "tag": "literary",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 2209
+      },
+      "essay": {
+        "id": "d036-essay",
+        "title": "Information to Those Who Would Remove to America",
+        "author": "Benjamin Franklin",
+        "url": "https://monadnock.net/franklin/information.html",
+        "est_minutes": 14,
+        "tag": "economics",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 37,
+      "essay_field": "physics & math",
+      "poem": {
+        "id": "d037-poem",
+        "title": "Kubla Khan",
+        "author": "Samuel Taylor Coleridge",
+        "url": "https://www.poetryfoundation.org/poems/43991/kubla-khan",
+        "est_minutes": 2,
+        "tag": "Romantic",
+        "requires_login": false,
+        "login_source": null
+      },
+      "story": {
+        "id": "d037-story",
+        "title": "A Pair of Silk Stockings",
+        "author": "Kate Chopin",
+        "url": "https://en.wikisource.org/wiki/A_Pair_of_Silk_Stockings_(Chopin)",
+        "est_minutes": 8,
+        "tag": "literary",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 1972
+      },
+      "essay": {
+        "id": "d037-essay",
+        "title": "Cargo Cult Science",
+        "author": "Richard Feynman",
+        "url": "https://people.cs.uchicago.edu/~ravenben/cargocult.html",
+        "est_minutes": 16,
+        "tag": "physics & math",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 38,
+      "essay_field": "psychology",
+      "poem": {
+        "id": "d038-poem",
+        "title": "Ode I. 11",
+        "author": "Horace",
+        "url": "https://www.poetryfoundation.org/poems/48703/ode-i-11",
+        "est_minutes": 1,
+        "tag": "Ancient",
+        "requires_login": false,
+        "login_source": null
+      },
+      "story": {
+        "id": "d038-story",
+        "title": "The Story of Keesh",
+        "author": "Jack London",
+        "url": "https://en.wikisource.org/wiki/Love_of_Life_%26_Other_Stories/The_Story_of_Keesh",
+        "est_minutes": 14,
+        "tag": "adventure",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 3214
+      },
+      "essay": {
+        "id": "d038-essay",
+        "title": "How Your Brain Creates ‘Aha’ Moments and Why They Stick",
+        "author": "Nora Bradford",
+        "url": "https://www.quantamagazine.org/how-your-brain-creates-aha-moments-and-why-they-stick-20251105/",
+        "est_minutes": 8,
+        "tag": "psychology",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 39,
+      "essay_field": "art",
+      "poem": {
+        "id": "d039-poem",
+        "title": "First Fig",
+        "author": "Edna St. Vincent Millay",
+        "url": "https://www.poetryfoundation.org/poetrymagazine/poems/14095/first-fig",
+        "est_minutes": 1,
+        "tag": "Modern",
+        "requires_login": false,
+        "login_source": null
+      },
+      "story": {
+        "id": "d039-story",
+        "title": "The Jewels",
+        "author": "Guy de Maupassant",
+        "url": "https://standardebooks.org/ebooks/guy-de-maupassant/short-fiction/various-translators/text/the-jewels",
+        "est_minutes": 11,
+        "tag": "literary",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 2499
+      },
+      "essay": {
+        "id": "d039-essay",
+        "title": "The Tall Office Building Artistically Considered",
+        "author": "Louis Sullivan",
+        "url": "https://monadnock.net/sullivan/building.html",
+        "est_minutes": 15,
+        "tag": "art",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 40,
+      "essay_field": "wildcard",
+      "poem": {
+        "id": "d040-poem",
+        "title": "Love (III)",
+        "author": "George Herbert",
+        "url": "https://www.poetryfoundation.org/poems/44367/love-iii",
+        "est_minutes": 1,
+        "tag": "17th century",
+        "requires_login": false,
+        "login_source": null,
+        "audio_url": "https://s3-us-east-2.amazonaws.com/cdn.poetryfoundation.org/content/audio/f7fb3f17cd1a10eaa5363ca97763e0e856739849.mp3"
+      },
+      "story": {
+        "id": "d040-story",
+        "title": "Why Don’t We Just Kill the Kid In the Omelas Hole",
+        "author": "Isabel J. Kim",
+        "url": "https://clarkesworldmagazine.com/kim_02_24/",
+        "est_minutes": 14,
+        "tag": "science fiction",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 3293
+      },
+      "essay": {
+        "id": "d040-essay",
+        "title": "The Bus Ticket Theory of Genius",
+        "author": "Paul Graham",
+        "url": "https://paulgraham.com/genius.html",
+        "est_minutes": 11,
+        "tag": "wildcard",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 41,
+      "essay_field": "philosophy",
+      "poem": {
+        "id": "d041-poem",
+        "title": "An Essay on Criticism: Part 2",
+        "author": "Alexander Pope",
+        "url": "https://www.poetryfoundation.org/poems/44897/an-essay-on-criticism-part-2",
+        "est_minutes": 10,
+        "tag": "18th century",
+        "requires_login": false,
+        "login_source": null
+      },
+      "story": {
+        "id": "d041-story",
+        "title": "Hills Like White Elephants",
+        "author": "Ernest Hemingway",
+        "url": "https://standardebooks.org/ebooks/ernest-hemingway/short-fiction/text/hills-like-white-elephants",
+        "est_minutes": 6,
+        "tag": "literary",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 1353
+      },
+      "essay": {
+        "id": "d041-essay",
+        "title": "Sometimes, the road to virtue comes by way of vice",
+        "author": "Sabrina B Little",
+        "url": "https://psyche.co/ideas/sometimes-the-road-to-virtue-comes-by-way-of-vice",
+        "est_minutes": 8,
+        "tag": "philosophy",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 42,
+      "essay_field": "biology",
+      "poem": {
+        "id": "d042-poem",
+        "title": "The Love Song of J. Alfred Prufrock",
+        "author": "T. S. Eliot",
+        "url": "https://www.poetryfoundation.org/poetrymagazine/poems/44212/the-love-song-of-j-alfred-prufrock",
+        "est_minutes": 6,
+        "tag": "Modern",
+        "requires_login": false,
+        "login_source": null,
+        "audio_url": "https://s3-us-east-2.amazonaws.com/cdn.poetryfoundation.org/content/audio/393b9581bdc0d875f1be80b42a999b68be28e344.mp3"
+      },
+      "story": {
+        "id": "d042-story",
+        "title": "The Boarded Window",
+        "author": "Ambrose Bierce",
+        "url": "https://standardebooks.org/ebooks/ambrose-bierce/in-the-midst-of-life/text/the-boarded-window",
+        "est_minutes": 8,
+        "tag": "horror",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 1810
+      },
+      "essay": {
+        "id": "d042-essay",
+        "title": "How Smell Guides Our Inner World",
+        "author": "Yasemin Saplakoglu",
+        "url": "https://www.quantamagazine.org/how-smell-guides-our-inner-world-20250703/",
+        "est_minutes": 14,
+        "tag": "biology",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 43,
+      "essay_field": "history",
+      "poem": {
+        "id": "d043-poem",
+        "title": "The Darkling Thrush",
+        "author": "Thomas Hardy",
+        "url": "https://www.poetryfoundation.org/poems/44325/the-darkling-thrush",
+        "est_minutes": 2,
+        "tag": "Victorian",
+        "requires_login": false,
+        "login_source": null
+      },
+      "story": {
+        "id": "d043-story",
+        "title": "The Fly",
+        "author": "Katherine Mansfield",
+        "url": "https://americanliterature.com/author/katherine-mansfield/short-story/the-fly",
+        "est_minutes": 16,
+        "tag": "literary",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 3655
+      },
+      "essay": {
+        "id": "d043-essay",
+        "title": "Animal, Vegetable, Lamb: The Zoophyte from Tartary",
+        "author": "Thom Sliwowski",
+        "url": "https://publicdomainreview.org/essay/animal-vegetable-lamb/",
+        "est_minutes": 12,
+        "tag": "history",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 2784
+      }
+    },
+    {
+      "day": 44,
+      "essay_field": "politics",
+      "poem": {
+        "id": "d044-poem",
+        "title": "On my First Son",
+        "author": "Ben Jonson",
+        "url": "https://www.poetryfoundation.org/poems/44455/on-my-first-son",
+        "est_minutes": 1,
+        "tag": "17th century",
+        "requires_login": false,
+        "login_source": null
+      },
+      "story": {
+        "id": "d044-story",
+        "title": "Eveline",
+        "author": "James Joyce",
+        "url": "https://standardebooks.org/ebooks/james-joyce/dubliners/text/eveline",
+        "est_minutes": 8,
+        "tag": "literary",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 1796
+      },
+      "essay": {
+        "id": "d044-essay",
+        "title": "Of the First Principles of Government",
+        "author": "David Hume",
+        "url": "https://monadnock.net/hume/principles.html",
+        "est_minutes": 7,
+        "tag": "politics",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 45,
+      "essay_field": "literary criticism",
+      "poem": {
+        "id": "d045-poem",
+        "title": "Sonnet 130",
+        "author": "William Shakespeare",
+        "url": "https://www.poetryfoundation.org/poems/45108/sonnet-130-my-mistress-eyes-are-nothing-like-the-sun",
+        "est_minutes": 1,
+        "tag": "Renaissance",
+        "requires_login": false,
+        "login_source": null
+      },
+      "story": {
+        "id": "d045-story",
+        "title": "Luck",
+        "author": "Mark Twain",
+        "url": "https://en.wikisource.org/wiki/Sketches_by_Mark_Twain/Science_vs._Luck",
+        "est_minutes": 4,
+        "tag": "comedy",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 982
+      },
+      "essay": {
+        "id": "d045-essay",
+        "title": "Culture clash",
+        "author": "Sam Dresser",
+        "url": "https://aeon.co/essays/at-the-heart-of-the-snow-leavis-two-cultures-clash",
+        "est_minutes": 23,
+        "tag": "literary criticism",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 46,
+      "essay_field": "economics",
+      "poem": {
+        "id": "d046-poem",
+        "title": "Digging",
+        "author": "Seamus Heaney",
+        "url": "https://www.poetryfoundation.org/poems/47555/digging",
+        "est_minutes": 2,
+        "tag": "Contemporary",
+        "requires_login": false,
+        "login_source": null,
+        "audio_url": "https://s3-us-east-2.amazonaws.com/cdn.poetryfoundation.org/content/audio/6c373f9c09f5021ee545e5ae0e8d96dc035524f1.mp3"
+      },
+      "story": {
+        "id": "d046-story",
+        "title": "The Other Side of the Hedge",
+        "author": "E. M. Forster",
+        "url": "https://monadnock.net/forster/hedge.html",
+        "est_minutes": 10,
+        "tag": "fantasy",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 2274
+      },
+      "essay": {
+        "id": "d046-essay",
+        "title": "The Math That Explains Why Bell Curves Are Everywhere",
+        "author": "Joseph Howlett",
+        "url": "https://www.quantamagazine.org/the-math-that-explains-why-bell-curves-are-everywhere-20260316/",
+        "est_minutes": 6,
+        "tag": "economics",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 47,
+      "essay_field": "physics & math",
+      "poem": {
+        "id": "d047-poem",
+        "title": "Acquainted with the Night",
+        "author": "Robert Frost",
+        "url": "https://www.poetryfoundation.org/poems/47548/acquainted-with-the-night",
+        "est_minutes": 1,
+        "tag": "Modern",
+        "requires_login": false,
+        "login_source": null
+      },
+      "story": {
+        "id": "d047-story",
+        "title": "The Gardener",
+        "author": "Rudyard Kipling",
+        "url": "https://americanliterature.com/author/rudyard-kipling/short-story/the-gardener",
+        "est_minutes": 16,
+        "tag": "literary",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 3776
+      },
+      "essay": {
+        "id": "d047-essay",
+        "title": "How Noether’s Theorem Revolutionized Physics",
+        "author": "Shalma Wegsman",
+        "url": "https://www.quantamagazine.org/how-noethers-theorem-revolutionized-physics-20250207/",
+        "est_minutes": 3,
+        "tag": "physics & math",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 48,
+      "essay_field": "psychology",
+      "poem": {
+        "id": "d048-poem",
+        "title": "O Me! O Life!",
+        "author": "Walt Whitman",
+        "url": "https://www.poetryfoundation.org/poems/51568/o-me-o-life",
+        "est_minutes": 1,
+        "tag": "19th-century American",
+        "requires_login": false,
+        "login_source": null,
+        "audio_url": "https://s3-us-east-2.amazonaws.com/cdn.poetryfoundation.org/content/audio/24472d0246f97d8c00c1018eab3963bd36874308.mp3"
+      },
+      "story": {
+        "id": "d048-story",
+        "title": "Cat Pictures Please",
+        "author": "Naomi Kritzer",
+        "url": "https://clarkesworldmagazine.com/kritzer_01_15/",
+        "est_minutes": 15,
+        "tag": "science fiction",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 3529
+      },
+      "essay": {
+        "id": "d048-essay",
+        "title": "Being in a crowd doesn’t make you part of a mindless mob",
+        "author": "John Drury",
+        "url": "https://psyche.co/ideas/being-in-a-crowd-doesnt-make-you-part-of-a-mindless-mob",
+        "est_minutes": 9,
+        "tag": "psychology",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 49,
+      "essay_field": "art",
+      "poem": {
+        "id": "d049-poem",
+        "title": "To a Mouse",
+        "author": "Robert Burns",
+        "url": "https://www.poetryfoundation.org/poems/43816/to-a-mouse-56d222ab36e33",
+        "est_minutes": 2,
+        "tag": "18th century",
+        "requires_login": false,
+        "login_source": null
+      },
+      "story": {
+        "id": "d049-story",
+        "title": "The Masque of the Red Death",
+        "author": "Edgar Allan Poe",
+        "url": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction/text/the-masque-of-the-red-death",
+        "est_minutes": 10,
+        "tag": "horror",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 2396
+      },
+      "essay": {
+        "id": "d049-essay",
+        "title": "Art",
+        "author": "Ralph Waldo Emerson",
+        "url": "https://monadnock.net/emerson/art.html",
+        "est_minutes": 18,
+        "tag": "art",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 50,
+      "essay_field": "wildcard",
+      "note": "Pair night: Montaigne on friendship. Tomorrow, Bacon on the same subject.",
+      "poem": {
+        "id": "d050-poem",
+        "title": "A Toast for Men Yun-Ch’ing",
+        "author": "Du Fu",
+        "url": "https://www.poetryfoundation.org/poems/52537/a-toast-for-men-yun-ching",
+        "est_minutes": 1,
+        "tag": "Ancient",
+        "requires_login": false,
+        "login_source": null
+      },
+      "story": {
+        "id": "d050-story",
+        "title": "Moonlight",
+        "author": "Guy de Maupassant",
+        "url": "https://standardebooks.org/ebooks/guy-de-maupassant/short-fiction/various-translators/text/moonlight",
+        "est_minutes": 6,
+        "tag": "literary",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 1313
+      },
+      "essay": {
+        "id": "d050-essay",
+        "title": "Of Friendship",
+        "author": "Michel de Montaigne",
+        "url": "https://monadnock.net/montaigne/friendship2.html",
+        "est_minutes": 23,
+        "tag": "philosophy",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 51,
+      "essay_field": "philosophy",
+      "note": "Pair night: compare with Montaigne (night 50).",
+      "poem": {
+        "id": "d051-poem",
+        "title": "Aubade",
+        "author": "Philip Larkin",
+        "url": "https://www.poetryfoundation.org/poems/48422/aubade-56d229a6e2f07",
+        "est_minutes": 2,
+        "tag": "Contemporary",
+        "requires_login": false,
+        "login_source": null,
+        "audio_url": "https://s3-us-east-2.amazonaws.com/cdn.poetryfoundation.org/content/audio/c8e30c2cf2176819abe2de7b5f44763fa90feb73.mp3"
+      },
+      "story": {
+        "id": "d051-story",
+        "title": "A Wagner Matinee",
+        "author": "Willa Cather",
+        "url": "https://en.wikisource.org/wiki/The_Troll_Garden/A_Wagner_Matinee",
+        "est_minutes": 15,
+        "tag": "literary",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 3373
+      },
+      "essay": {
+        "id": "d051-essay",
+        "title": "Of Friendship",
+        "author": "Francis Bacon",
+        "url": "https://monadnock.net/bacon/friendship.html",
+        "est_minutes": 11,
+        "tag": "philosophy",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 52,
+      "essay_field": "biology",
+      "poem": {
+        "id": "d052-poem",
+        "title": "No coward soul is mine",
+        "author": "Emily Brontë",
+        "url": "https://www.poetryfoundation.org/poems/43712/no-coward-soul-is-mine",
+        "est_minutes": 2,
+        "tag": "Victorian",
+        "requires_login": false,
+        "login_source": null
+      },
+      "story": {
+        "id": "d052-story",
+        "title": "The Last Leaf",
+        "author": "O. Henry",
+        "url": "https://standardebooks.org/ebooks/o-henry/short-fiction/text/the-last-leaf",
+        "est_minutes": 10,
+        "tag": "literary",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 2335
+      },
+      "essay": {
+        "id": "d052-essay",
+        "title": "How Animals Build a Sense of Direction",
+        "author": "Yasemin Saplakoglu",
+        "url": "https://www.quantamagazine.org/how-animals-build-a-sense-of-direction-20260121/",
+        "est_minutes": 11,
+        "tag": "biology",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 53,
+      "essay_field": "history",
+      "poem": {
+        "id": "d053-poem",
+        "title": "When I consider how my light is spent",
+        "author": "John Milton",
+        "url": "https://www.poetryfoundation.org/poems/44750/sonnet-19-when-i-consider-how-my-light-is-spent",
+        "est_minutes": 1,
+        "tag": "17th century",
+        "requires_login": false,
+        "login_source": null
+      },
+      "story": {
+        "id": "d053-story",
+        "title": "The Hoard of the Gibbelins",
+        "author": "Lord Dunsany",
+        "url": "https://standardebooks.org/ebooks/lord-dunsany/the-book-of-wonder/sidney-h-sime/text/the-hoard-of-the-gibbelins",
+        "est_minutes": 7,
+        "tag": "fantasy",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 1663
+      },
+      "essay": {
+        "id": "d053-essay",
+        "title": "The Secrets of Viking Sword Making",
+        "author": "James MacDonald",
+        "url": "https://daily.jstor.org/the-secrets-of-viking-sword-making/",
+        "est_minutes": 2,
+        "tag": "history",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 604
+      }
+    },
+    {
+      "day": 54,
+      "essay_field": "politics",
+      "poem": {
+        "id": "d054-poem",
+        "title": "Dulce et Decorum Est",
+        "author": "Wilfred Owen",
+        "url": "https://www.poetryfoundation.org/poems/46560/dulce-et-decorum-est",
+        "est_minutes": 2,
+        "tag": "Modern",
+        "requires_login": false,
+        "login_source": null,
+        "audio_url": "https://s3-us-east-2.amazonaws.com/cdn.poetryfoundation.org/content/audio/82cc46210f5e9865e6ead626a7c97160f3c106b7.mp3"
+      },
+      "story": {
+        "id": "d054-story",
+        "title": "The Secret Lives of the Nine Negro Teeth of George Washington",
+        "author": "P. Djèlí Clark",
+        "url": "https://firesidefiction.com/the-secret-lives-of-the-nine-negro-teeth-of-george-washington",
+        "est_minutes": 16,
+        "tag": "historical fantasy",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 3701
+      },
+      "essay": {
+        "id": "d054-essay",
+        "title": "You and the Atom Bomb",
+        "author": "George Orwell",
+        "url": "https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/you-and-the-atom-bomb/",
+        "est_minutes": 7,
+        "tag": "politics",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 55,
+      "essay_field": "literary criticism",
+      "poem": {
+        "id": "d055-poem",
+        "title": "We Real Cool",
+        "author": "Gwendolyn Brooks",
+        "url": "https://www.poetryfoundation.org/poetrymagazine/poems/28112/we-real-cool",
+        "est_minutes": 1,
+        "tag": "Modern",
+        "requires_login": false,
+        "login_source": null,
+        "audio_url": "https://s3-us-east-2.amazonaws.com/cdn.poetryfoundation.org/content/audio/6a9e22c518da14a650b1a1742f94f89926c3f7e5.mp3"
+      },
+      "story": {
+        "id": "d055-story",
+        "title": "Indian Camp",
+        "author": "Ernest Hemingway",
+        "url": "https://standardebooks.org/ebooks/ernest-hemingway/short-fiction/text/indian-camp",
+        "est_minutes": 6,
+        "tag": "literary",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 1403
+      },
+      "essay": {
+        "id": "d055-essay",
+        "title": "The Absence of Religion in Shakespeare",
+        "author": "George Santayana",
+        "url": "https://monadnock.net/santayana/shakespeare.html",
+        "est_minutes": 17,
+        "tag": "literary criticism",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 56,
+      "essay_field": "economics",
+      "poem": {
+        "id": "d056-poem",
+        "title": "Fear no more the heat o’ the sun",
+        "author": "William Shakespeare",
+        "url": "https://www.poetryfoundation.org/poems/50428/song-fear-no-more-the-heat-o-the-sun-",
+        "est_minutes": 1,
+        "tag": "Renaissance",
+        "requires_login": false,
+        "login_source": null
+      },
+      "story": {
+        "id": "d056-story",
+        "title": "The Interlopers",
+        "author": "Saki",
+        "url": "https://standardebooks.org/ebooks/saki/short-fiction/text/the-interlopers",
+        "est_minutes": 9,
+        "tag": "adventure",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 2130
+      },
+      "essay": {
+        "id": "d056-essay",
+        "title": "The Way to Wealth",
+        "author": "Benjamin Franklin",
+        "url": "https://monadnock.net/franklin/wealth.html",
+        "est_minutes": 4,
+        "tag": "economics",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 57,
+      "essay_field": "physics & math",
+      "poem": {
+        "id": "d057-poem",
+        "title": "She Walks in Beauty",
+        "author": "Lord Byron (George Gordon)",
+        "url": "https://www.poetryfoundation.org/poems/43844/she-walks-in-beauty",
+        "est_minutes": 1,
+        "tag": "Romantic",
+        "requires_login": false,
+        "login_source": null
+      },
+      "story": {
+        "id": "d057-story",
+        "title": "The Darling",
+        "author": "Anton Chekhov",
+        "url": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett/text/the-darling",
+        "est_minutes": 21,
+        "tag": "literary",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 4922
+      },
+      "essay": {
+        "id": "d057-essay",
+        "title": "What Is the Fourier Transform?",
+        "author": "Shalma Wegsman",
+        "url": "https://www.quantamagazine.org/what-is-the-fourier-transform-20250903/",
+        "est_minutes": 6,
+        "tag": "physics & math",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 58,
+      "essay_field": "psychology",
+      "poem": {
+        "id": "d058-poem",
+        "title": "Nothing Gold Can Stay",
+        "author": "Robert Frost",
+        "url": "https://www.poetryfoundation.org/poems/148652/nothing-gold-can-stay-5c095cc5ab679",
+        "est_minutes": 1,
+        "tag": "Modern",
+        "requires_login": false,
+        "login_source": null
+      },
+      "story": {
+        "id": "d058-story",
+        "title": "The Big Trip Up Yonder",
+        "author": "Kurt Vonnegut",
+        "url": "https://www.gutenberg.org/ebooks/30240",
+        "est_minutes": 1,
+        "tag": "science fiction",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 340
+      },
+      "essay": {
+        "id": "d058-essay",
+        "title": "On Living to Oneself",
+        "author": "William Hazlitt",
+        "url": "https://monadnock.net/hazlitt/oneself.html",
+        "est_minutes": 21,
+        "tag": "psychology",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 59,
+      "essay_field": "art",
+      "poem": {
+        "id": "d059-poem",
+        "title": "Ithaka",
+        "author": "C. P. Cavafy",
+        "url": "https://www.poetryfoundation.org/poems/51296/ithaka-56d22eef917ec",
+        "est_minutes": 2,
+        "tag": "Modern",
+        "requires_login": false,
+        "login_source": null
+      },
+      "story": {
+        "id": "d059-story",
+        "title": "The Oval Portrait",
+        "author": "Edgar Allan Poe",
+        "url": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction/text/the-oval-portrait",
+        "est_minutes": 6,
+        "tag": "horror",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 1283
+      },
+      "essay": {
+        "id": "d059-essay",
+        "title": "The savage bites back",
+        "author": "Sofía Cándano",
+        "url": "https://aeon.co/essays/anthropophagy-art-flips-the-cannibal-worries-of-colonialism",
+        "est_minutes": 16,
+        "tag": "art",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 60,
+      "essay_field": "wildcard",
+      "poem": {
+        "id": "d060-poem",
+        "title": "Morning Song",
+        "author": "Sylvia Plath",
+        "url": "https://www.poetryfoundation.org/poems/49008/morning-song-56d22ab4a0cee",
+        "est_minutes": 1,
+        "tag": "Contemporary",
+        "requires_login": false,
+        "login_source": null,
+        "audio_url": "https://s3-us-east-2.amazonaws.com/cdn.poetryfoundation.org/content/audio/f29339b0967e44287f8fff68adf3258e9e90f1b1.mp3"
+      },
+      "story": {
+        "id": "d060-story",
+        "title": "The Sphinx Without a Secret",
+        "author": "Oscar Wilde",
+        "url": "https://standardebooks.org/ebooks/oscar-wilde/lord-arthur-saviles-crime-and-other-stories/text/the-sphinx-without-a-secret",
+        "est_minutes": 9,
+        "tag": "comedy",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 2079
+      },
+      "essay": {
+        "id": "d060-essay",
+        "title": "Ascent of Mount Ventoux",
+        "author": "Petrarch",
+        "url": "https://monadnock.net/petrarch/ascent.html",
+        "est_minutes": 15,
+        "tag": "wildcard",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 61,
+      "essay_field": "philosophy",
+      "poem": {
+        "id": "d061-poem",
+        "title": "The Rape of the Lock: Canto 1",
+        "author": "Alexander Pope",
+        "url": "https://www.poetryfoundation.org/poems/44906/the-rape-of-the-lock-canto-1",
+        "est_minutes": 8,
+        "tag": "18th century",
+        "requires_login": false,
+        "login_source": null
+      },
+      "story": {
+        "id": "d061-story",
+        "title": "The Outsider",
+        "author": "H. P. Lovecraft",
+        "url": "https://standardebooks.org/ebooks/h-p-lovecraft/short-fiction/text/the-outsider",
+        "est_minutes": 11,
+        "tag": "horror",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 2591
+      },
+      "essay": {
+        "id": "d061-essay",
+        "title": "Arabic has four words for sadness – philosophy explains why",
+        "author": "Chereen Shurafa",
+        "url": "https://psyche.co/ideas/arabic-has-four-words-for-sadness-philosophy-explains-why",
+        "est_minutes": 1,
+        "tag": "philosophy",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 62,
+      "essay_field": "biology",
+      "poem": {
+        "id": "d062-poem",
+        "title": "My Last Duchess",
+        "author": "Robert Browning",
+        "url": "https://www.poetryfoundation.org/poems/43768/my-last-duchess",
+        "est_minutes": 4,
+        "tag": "Victorian",
+        "requires_login": false,
+        "login_source": null,
+        "audio_url": "https://s3-us-east-2.amazonaws.com/cdn.poetryfoundation.org/content/audio/c7166d8f539d5d046da2ad3d578297cc750dc35e.mp3"
+      },
+      "story": {
+        "id": "d062-story",
+        "title": "Chickamauga",
+        "author": "Ambrose Bierce",
+        "url": "https://standardebooks.org/ebooks/ambrose-bierce/in-the-midst-of-life/text/chickamauga",
+        "est_minutes": 11,
+        "tag": "war",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 2505
+      },
+      "essay": {
+        "id": "d062-essay",
+        "title": "All Life on Earth Today Descended From a Single Cell. Meet LUCA.",
+        "author": "Jonathan Lambert",
+        "url": "https://www.quantamagazine.org/all-life-on-earth-today-descended-from-a-single-cell-meet-luca-20241120/",
+        "est_minutes": 8,
+        "tag": "biology",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 63,
+      "essay_field": "history",
+      "poem": {
+        "id": "d063-poem",
+        "title": "To My Dear and Loving Husband",
+        "author": "Anne Bradstreet",
+        "url": "https://www.poetryfoundation.org/poems/43706/to-my-dear-and-loving-husband",
+        "est_minutes": 1,
+        "tag": "17th century",
+        "requires_login": false,
+        "login_source": null,
+        "audio_url": "https://s3-us-east-2.amazonaws.com/cdn.poetryfoundation.org/content/audio/c98afd01ea3dbd8c45d5135a38cc1899d56b4bbf.mp3"
+      },
+      "story": {
+        "id": "d063-story",
+        "title": "A Cup of Tea",
+        "author": "Katherine Mansfield",
+        "url": "https://americanliterature.com/author/katherine-mansfield/short-story/a-cup-of-tea",
+        "est_minutes": 13,
+        "tag": "literary",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 2951
+      },
+      "essay": {
+        "id": "d063-essay",
+        "title": "Fear and Fragility: The Glass Delusion and Its History",
+        "author": "Tamara Sanderson",
+        "url": "https://publicdomainreview.org/essay/fear-and-fragility-the-glass-delusion-and-its-history/",
+        "est_minutes": 15,
+        "tag": "history",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 3632
+      }
+    },
+    {
+      "day": 64,
+      "essay_field": "politics",
+      "poem": {
+        "id": "d064-poem",
+        "title": "blessing the boats",
+        "author": "Lucille Clifton",
+        "url": "https://www.poetryfoundation.org/poems/58816/blessing-the-boats",
+        "est_minutes": 1,
+        "tag": "Contemporary",
+        "requires_login": false,
+        "login_source": null
+      },
+      "story": {
+        "id": "d064-story",
+        "title": "The Storm",
+        "author": "Kate Chopin",
+        "url": "https://americanliterature.com/author/kate-chopin/short-story/the-storm",
+        "est_minutes": 13,
+        "tag": "literary",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 3011
+      },
+      "essay": {
+        "id": "d064-essay",
+        "title": "In Front of Your Nose",
+        "author": "George Orwell",
+        "url": "https://orwellfoundation.com/george-orwell/by-orwell/essays-and-other-works/in-front-of-your-nose/",
+        "est_minutes": 7,
+        "tag": "politics",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 65,
+      "essay_field": "literary criticism",
+      "poem": {
+        "id": "d065-poem",
+        "title": "To an Athlete Dying Young",
+        "author": "A. E. Housman",
+        "url": "https://www.poetryfoundation.org/poems/46452/to-an-athlete-dying-young",
+        "est_minutes": 1,
+        "tag": "Victorian",
+        "requires_login": false,
+        "login_source": null
+      },
+      "story": {
+        "id": "d065-story",
+        "title": "The Cartographer Wasps and the Anarchist Bees",
+        "author": "E. Lily Yu",
+        "url": "https://clarkesworldmagazine.com/yu_04_11/",
+        "est_minutes": 1,
+        "tag": "fantasy",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 185
+      },
+      "essay": {
+        "id": "d065-essay",
+        "title": "Preface to Lyrical Ballads",
+        "author": "William Wordsworth",
+        "url": "https://monadnock.net/wordsworth/preface.html",
+        "est_minutes": 28,
+        "tag": "literary criticism",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 66,
+      "essay_field": "economics",
+      "poem": {
+        "id": "d066-poem",
+        "title": "Bright star, would I were stedfast as thou art",
+        "author": "John Keats",
+        "url": "https://www.poetryfoundation.org/poems/44468/bright-star-would-i-were-stedfast-as-thou-art",
+        "est_minutes": 1,
+        "tag": "Romantic",
+        "requires_login": false,
+        "login_source": null
+      },
+      "story": {
+        "id": "d066-story",
+        "title": "The Minister’s Black Veil",
+        "author": "Nathaniel Hawthorne",
+        "url": "https://en.wikisource.org/wiki/Twice-Told_Tales_(1837)/The_Minister's_Black_Veil",
+        "est_minutes": 23,
+        "tag": "dark fantasy",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 5287
+      },
+      "essay": {
+        "id": "d066-essay",
+        "title": "Stuff",
+        "author": "Paul Graham",
+        "url": "https://paulgraham.com/stuff.html",
+        "est_minutes": 5,
+        "tag": "economics",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 67,
+      "essay_field": "physics & math",
+      "poem": {
+        "id": "d067-poem",
+        "title": "Sonnet 30",
+        "author": "William Shakespeare",
+        "url": "https://www.poetryfoundation.org/poems/45091/sonnet-30-when-to-the-sessions-of-sweet-silent-thought",
+        "est_minutes": 1,
+        "tag": "Renaissance",
+        "requires_login": false,
+        "login_source": null
+      },
+      "story": {
+        "id": "d067-story",
+        "title": "Sweat",
+        "author": "Zora Neale Hurston",
+        "url": "https://en.wikisource.org/wiki/Fire!!/Sweat",
+        "est_minutes": 21,
+        "tag": "literary",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 4787
+      },
+      "essay": {
+        "id": "d067-essay",
+        "title": "Is Gravity Just Entropy Rising?",
+        "author": "George Musser",
+        "url": "https://www.quantamagazine.org/is-gravity-just-entropy-rising-long-shot-idea-gets-another-look-20250613/",
+        "est_minutes": 8,
+        "tag": "physics & math",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 68,
+      "essay_field": "psychology",
+      "poem": {
+        "id": "d068-poem",
+        "title": "Sea Grapes",
+        "author": "Derek Walcott",
+        "url": "https://www.poetryfoundation.org/poems/57111/sea-grapes",
+        "est_minutes": 1,
+        "tag": "Contemporary",
+        "requires_login": false,
+        "login_source": null
+      },
+      "story": {
+        "id": "d068-story",
+        "title": "The Toll-House",
+        "author": "W. W. Jacobs",
+        "url": "https://en.wikisource.org/wiki/The_Toll_House",
+        "est_minutes": 15,
+        "tag": "horror",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 3581
+      },
+      "essay": {
+        "id": "d068-essay",
+        "title": "What Happens in a Mind That Can’t See Mental Images",
+        "author": "Yasemin Saplakoglu",
+        "url": "https://www.quantamagazine.org/what-happens-in-a-mind-that-cant-see-mental-images-20240801/",
+        "est_minutes": 10,
+        "tag": "psychology",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 69,
+      "essay_field": "art",
+      "poem": {
+        "id": "d069-poem",
+        "title": "i carry your heart with me",
+        "author": "E. E. Cummings",
+        "url": "https://www.poetryfoundation.org/poetrymagazine/poems/49493/i-carry-your-heart-with-mei-carry-it-in",
+        "est_minutes": 1,
+        "tag": "Modern",
+        "requires_login": false,
+        "login_source": null
+      },
+      "story": {
+        "id": "d069-story",
+        "title": "God Sees the Truth, But Waits",
+        "author": "Leo Tolstoy",
+        "url": "https://standardebooks.org/ebooks/leo-tolstoy/short-fiction/various-translators/text/god-sees-the-truth-but-waits",
+        "est_minutes": 13,
+        "tag": "fable",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 2977
+      },
+      "essay": {
+        "id": "d069-essay",
+        "title": "Cloud Castles",
+        "author": "George Santayana",
+        "url": "https://monadnock.net/santayana/cloud-castles.html",
+        "est_minutes": 6,
+        "tag": "art",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 70,
+      "essay_field": "wildcard",
+      "note": "Pair night: Hume speaks as the Epicurean, for pleasure. Tomorrow, his Stoic answers.",
+      "poem": {
+        "id": "d070-poem",
+        "title": "‘Out, Out—’",
+        "author": "Robert Frost",
+        "url": "https://www.poetryfoundation.org/poems/53087/out-out",
+        "est_minutes": 2,
+        "tag": "Modern",
+        "requires_login": false,
+        "login_source": null,
+        "audio_url": "https://s3-us-east-2.amazonaws.com/cdn.poetryfoundation.org/content/audio/d7f0fee911035e7feecfb4176309d0e42b3fdcdf.mp3"
+      },
+      "story": {
+        "id": "d070-story",
+        "title": "The Black Cat",
+        "author": "Edgar Allan Poe",
+        "url": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction/text/the-black-cat",
+        "est_minutes": 17,
+        "tag": "horror",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 3859
+      },
+      "essay": {
+        "id": "d070-essay",
+        "title": "The Epicurean",
+        "author": "David Hume",
+        "url": "https://monadnock.net/hume/epicurean.html",
+        "est_minutes": 10,
+        "tag": "philosophy",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 71,
+      "essay_field": "philosophy",
+      "note": "Pair night: the Stoic replies to last night’s Epicurean (night 70). Neither voice is simply Hume.",
+      "poem": {
+        "id": "d071-poem",
+        "title": "The Lake Isle of Innisfree",
+        "author": "William Butler Yeats",
+        "url": "https://www.poetryfoundation.org/poems/43281/the-lake-isle-of-innisfree",
+        "est_minutes": 1,
+        "tag": "Modern",
+        "requires_login": false,
+        "login_source": null,
+        "audio_url": "https://s3-us-east-2.amazonaws.com/cdn.poetryfoundation.org/content/audio/bfe171f30dd6579d3c72a0d603679abf740aea93.mp3"
+      },
+      "story": {
+        "id": "d071-story",
+        "title": "The Great Silence",
+        "author": "Ted Chiang",
+        "url": "https://electricliterature.com/the-great-silence-by-ted-chiang/",
+        "est_minutes": 1,
+        "tag": "science fiction",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 1937
+      },
+      "essay": {
+        "id": "d071-essay",
+        "title": "The Stoic",
+        "author": "David Hume",
+        "url": "https://monadnock.net/hume/stoic.html",
+        "est_minutes": 12,
+        "tag": "philosophy",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 72,
+      "essay_field": "biology",
+      "note": "Ralegh’s poem is a reply to Marlowe’s, which comes tomorrow (night 73).",
+      "poem": {
+        "id": "d072-poem",
+        "title": "The Nymph’s Reply to the Shepherd",
+        "author": "Sir Walter Raleigh",
+        "url": "https://www.poetryfoundation.org/poems/44939/the-nymphs-reply-to-the-shepherd",
+        "est_minutes": 1,
+        "tag": "Renaissance",
+        "requires_login": false,
+        "login_source": null
+      },
+      "story": {
+        "id": "d072-story",
+        "title": "Clay",
+        "author": "James Joyce",
+        "url": "https://standardebooks.org/ebooks/james-joyce/dubliners/text/clay",
+        "est_minutes": 11,
+        "tag": "literary",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 2639
+      },
+      "essay": {
+        "id": "d072-essay",
+        "title": "Turbocharged Mitochondria Power Birds’ Epic Migratory Journeys",
+        "author": "Elizabeth Landau",
+        "url": "https://www.quantamagazine.org/turbocharged-mitochondria-power-birds-epic-migratory-journeys-20250519/",
+        "est_minutes": 8,
+        "tag": "biology",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 73,
+      "essay_field": "history",
+      "note": "Marlowe’s shepherd, answered by Ralegh’s nymph last night (night 72).",
+      "poem": {
+        "id": "d073-poem",
+        "title": "The Passionate Shepherd to His Love",
+        "author": "Christopher Marlowe",
+        "url": "https://www.poetryfoundation.org/poems/44675/the-passionate-shepherd-to-his-love",
+        "est_minutes": 1,
+        "tag": "Renaissance",
+        "requires_login": false,
+        "login_source": null
+      },
+      "story": {
+        "id": "d073-story",
+        "title": "Vanka",
+        "author": "Anton Chekhov",
+        "url": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett/text/vanka",
+        "est_minutes": 7,
+        "tag": "literary",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 1624
+      },
+      "essay": {
+        "id": "d073-essay",
+        "title": "Continental divide",
+        "author": "Shawn Miller",
+        "url": "https://aeon.co/essays/why-the-pan-american-highway-only-half-exists",
+        "est_minutes": 19,
+        "tag": "history",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 4499
+      }
+    },
+    {
+      "day": 74,
+      "essay_field": "politics",
+      "poem": {
+        "id": "d074-poem",
+        "title": "If We Must Die",
+        "author": "Claude McKay",
+        "url": "https://www.poetryfoundation.org/poems/44694/if-we-must-die",
+        "est_minutes": 1,
+        "tag": "Modern",
+        "requires_login": false,
+        "login_source": null,
+        "audio_url": "https://s3-us-east-2.amazonaws.com/cdn.poetryfoundation.org/content/audio/f6348569db16c2eb3897a00ee1f49932f7152147.mp3"
+      },
+      "story": {
+        "id": "d074-story",
+        "title": "A Dog’s Tale",
+        "author": "Mark Twain",
+        "url": "https://en.wikisource.org/wiki/Harper's_Magazine/Volume_108/A_Dog's_Tale",
+        "est_minutes": 19,
+        "tag": "literary",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 4421
+      },
+      "essay": {
+        "id": "d074-essay",
+        "title": "Lyceum Address",
+        "author": "Abraham Lincoln",
+        "url": "https://monadnock.net/lincoln/lyceum.html",
+        "est_minutes": 7,
+        "tag": "politics",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 75,
+      "essay_field": "literary criticism",
+      "poem": {
+        "id": "d075-poem",
+        "title": "Epistle to Dr. Arbuthnot",
+        "author": "Alexander Pope",
+        "url": "https://www.poetryfoundation.org/poems/44895/epistle-to-dr-arbuthnot",
+        "est_minutes": 15,
+        "tag": "18th century",
+        "requires_login": false,
+        "login_source": null,
+        "audio_url": "https://s3-us-east-2.amazonaws.com/cdn.poetryfoundation.org/content/audio/d039ed60e18c80bf1b6aa420df80d9d3a5b60e5e.mp3"
+      },
+      "story": {
+        "id": "d075-story",
+        "title": "The Paper Menagerie",
+        "author": "Ken Liu",
+        "url": "https://lithub.com/the-paper-menagerie/",
+        "est_minutes": 9,
+        "tag": "fantasy",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 2099
+      },
+      "essay": {
+        "id": "d075-essay",
+        "title": "Good Bad Books",
+        "author": "George Orwell",
+        "url": "https://orwellfoundation.com/george-orwell/by-orwell/essays-and-other-works/good-bad-books/",
+        "est_minutes": 6,
+        "tag": "literary criticism",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 76,
+      "essay_field": "economics",
+      "poem": {
+        "id": "d076-poem",
+        "title": "For What Binds Us",
+        "author": "Jane Hirshfield",
+        "url": "https://www.poetryfoundation.org/poems/52468/for-what-binds-us",
+        "est_minutes": 1,
+        "tag": "Contemporary",
+        "requires_login": false,
+        "login_source": null
+      },
+      "story": {
+        "id": "d076-story",
+        "title": "A Piece of String",
+        "author": "Guy de Maupassant",
+        "url": "https://en.wikisource.org/wiki/The_Complete_Short_Stories_of_Guy_de_Maupassant/A_Piece_of_String",
+        "est_minutes": 10,
+        "tag": "literary",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 2383
+      },
+      "essay": {
+        "id": "d076-essay",
+        "title": "How People Get Rich Now",
+        "author": "Paul Graham",
+        "url": "https://paulgraham.com/richnow.html",
+        "est_minutes": 11,
+        "tag": "economics",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 77,
+      "essay_field": "physics & math",
+      "poem": {
+        "id": "d077-poem",
+        "title": "Encounter",
+        "author": "Czeslaw Milosz",
+        "url": "https://www.poetryfoundation.org/poems/49457/encounter-56d22b901521b",
+        "est_minutes": 1,
+        "tag": "Contemporary",
+        "requires_login": false,
+        "login_source": null
+      },
+      "story": {
+        "id": "d077-story",
+        "title": "An Episode of War",
+        "author": "Stephen Crane",
+        "url": "https://en.wikisource.org/wiki/An_Episode_of_War",
+        "est_minutes": 7,
+        "tag": "war",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 1653
+      },
+      "essay": {
+        "id": "d077-essay",
+        "title": "How Failure Has Made Mathematics Stronger",
+        "author": "Jordana Cepelewicz",
+        "url": "https://www.quantamagazine.org/how-failure-has-made-mathematics-stronger-20240522/",
+        "est_minutes": 8,
+        "tag": "physics & math",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 78,
+      "essay_field": "psychology",
+      "poem": {
+        "id": "d078-poem",
+        "title": "Sonnet 55",
+        "author": "William Shakespeare",
+        "url": "https://www.poetryfoundation.org/poems/46455/sonnet-55-not-marble-nor-the-gilded-monuments",
+        "est_minutes": 1,
+        "tag": "Renaissance",
+        "requires_login": false,
+        "login_source": null
+      },
+      "story": {
+        "id": "d078-story",
+        "title": "The Ransom of Red Chief",
+        "author": "O. Henry",
+        "url": "https://standardebooks.org/ebooks/o-henry/short-fiction/text/the-ransom-of-red-chief",
+        "est_minutes": 18,
+        "tag": "comedy",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 4144
+      },
+      "essay": {
+        "id": "d078-essay",
+        "title": "When you feel moral disgust, what’s the emotion telling you?",
+        "author": "Brandon Yip",
+        "url": "https://psyche.co/ideas/when-you-feel-moral-disgust-whats-the-emotion-telling-you",
+        "est_minutes": 2,
+        "tag": "psychology",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 79,
+      "essay_field": "art",
+      "poem": {
+        "id": "d079-poem",
+        "title": "Archaic Torso of Apollo",
+        "author": "Rainer Maria Rilke",
+        "url": "https://www.poetryfoundation.org/poems/1679348/archaic-torso-of-apollo",
+        "est_minutes": 1,
+        "tag": "Modern",
+        "requires_login": false,
+        "login_source": null
+      },
+      "story": {
+        "id": "d079-story",
+        "title": "The Scapegoat",
+        "author": "Paul Laurence Dunbar",
+        "url": "https://en.wikisource.org/wiki/The_Heart_Of_Happy_Hollow/The_Scapegoat",
+        "est_minutes": 21,
+        "tag": "literary",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 4832
+      },
+      "essay": {
+        "id": "d079-essay",
+        "title": "When Artists Painted with Real Mummies",
+        "author": "Allison Meier",
+        "url": "https://daily.jstor.org/when-artists-painted-with-real-mummies/",
+        "est_minutes": 2,
+        "tag": "art",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 80,
+      "essay_field": "wildcard",
+      "poem": {
+        "id": "d080-poem",
+        "title": "We Wear the Mask",
+        "author": "Paul Laurence Dunbar",
+        "url": "https://www.poetryfoundation.org/poems/44203/we-wear-the-mask",
+        "est_minutes": 1,
+        "tag": "19th-century American",
+        "requires_login": false,
+        "login_source": null
+      },
+      "story": {
+        "id": "d080-story",
+        "title": "The Christmas Tree and the Wedding",
+        "author": "Fyodor Dostoevsky",
+        "url": "https://en.wikisource.org/wiki/Best_Russian_Short_Stories/The_Christmas_Tree_and_the_Wedding",
+        "est_minutes": 13,
+        "tag": "literary",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 2908
+      },
+      "essay": {
+        "id": "d080-essay",
+        "title": "Of Democritus and Heraclitus",
+        "author": "Michel de Montaigne",
+        "url": "https://monadnock.net/montaigne/democritus2.html",
+        "est_minutes": 6,
+        "tag": "wildcard",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 81,
+      "essay_field": "philosophy",
+      "poem": {
+        "id": "d081-poem",
+        "title": "The Raven",
+        "author": "Edgar Allan Poe",
+        "url": "https://www.poetryfoundation.org/poems/48860/the-raven",
+        "est_minutes": 8,
+        "tag": "19th-century American",
+        "requires_login": false,
+        "login_source": null
+      },
+      "story": {
+        "id": "d081-story",
+        "title": "The Story of an Hour",
+        "author": "Kate Chopin",
+        "url": "https://standardebooks.org/ebooks/kate-chopin/short-fiction/text/the-dream-of-an-hour",
+        "est_minutes": 4,
+        "tag": "literary",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 1012
+      },
+      "essay": {
+        "id": "d081-essay",
+        "title": "He was probably right",
+        "author": "Massimo Pigliucci",
+        "url": "https://aeon.co/essays/a-good-sceptic-has-more-than-doubt-and-less-than-certainty",
+        "est_minutes": 14,
+        "tag": "philosophy",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 82,
+      "essay_field": "biology",
+      "poem": {
+        "id": "d082-poem",
+        "title": "Home Burial",
+        "author": "Robert Frost",
+        "url": "https://www.poetryfoundation.org/poems/53086/home-burial",
+        "est_minutes": 6,
+        "tag": "Modern",
+        "requires_login": false,
+        "login_source": null
+      },
+      "story": {
+        "id": "d082-story",
+        "title": "The Lumber-Room",
+        "author": "Saki",
+        "url": "https://standardebooks.org/ebooks/saki/short-fiction/text/the-lumber-room",
+        "est_minutes": 10,
+        "tag": "comedy",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 2187
+      },
+      "essay": {
+        "id": "d082-essay",
+        "title": "How the Bird Eye Was Pushed to an Evolutionary Extreme",
+        "author": "Yasemin Saplakoglu",
+        "url": "https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/",
+        "est_minutes": 8,
+        "tag": "biology",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 83,
+      "essay_field": "history",
+      "poem": {
+        "id": "d083-poem",
+        "title": "The River-Merchant’s Wife: A Letter",
+        "author": "Ezra Pound",
+        "url": "https://www.poetryfoundation.org/poems/47692/the-river-merchants-wife-a-letter-56d22853677f9",
+        "est_minutes": 2,
+        "tag": "Modern",
+        "requires_login": false,
+        "login_source": null
+      },
+      "story": {
+        "id": "d083-story",
+        "title": "The Cats of Ulthar",
+        "author": "H. P. Lovecraft",
+        "url": "https://standardebooks.org/ebooks/h-p-lovecraft/short-fiction/text/the-cats-of-ulthar",
+        "est_minutes": 6,
+        "tag": "fantasy",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 1343
+      },
+      "essay": {
+        "id": "d083-essay",
+        "title": "Twilight of the Velocipede",
+        "author": "Alex Wright",
+        "url": "https://publicdomainreview.org/essay/twilight-of-the-velocipede/",
+        "est_minutes": 15,
+        "tag": "history",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 3586
+      }
+    },
+    {
+      "day": 84,
+      "essay_field": "politics",
+      "poem": {
+        "id": "d084-poem",
+        "title": "Introduction to Poetry",
+        "author": "Billy Collins",
+        "url": "https://www.poetryfoundation.org/poems/46712/introduction-to-poetry",
+        "est_minutes": 1,
+        "tag": "Contemporary",
+        "requires_login": false,
+        "login_source": null
+      },
+      "story": {
+        "id": "d084-story",
+        "title": "Five Impossible Things",
+        "author": "Koji A. Dae",
+        "url": "https://clarkesworldmagazine.com/dae_09_25/",
+        "est_minutes": 18,
+        "tag": "science fiction",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 4133
+      },
+      "essay": {
+        "id": "d084-essay",
+        "title": "Below the Battle",
+        "author": "Randolph Bourne",
+        "url": "https://monadnock.net/bourne/battle.html",
+        "est_minutes": 11,
+        "tag": "politics",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 85,
+      "essay_field": "literary criticism",
+      "poem": {
+        "id": "d085-poem",
+        "title": "Elegy Written in a Country Churchyard",
+        "author": "Thomas Gray",
+        "url": "https://www.poetryfoundation.org/poems/44299/elegy-written-in-a-country-churchyard",
+        "est_minutes": 7,
+        "tag": "18th century",
+        "requires_login": false,
+        "login_source": null
+      },
+      "story": {
+        "id": "d085-story",
+        "title": "The Damned Thing",
+        "author": "Ambrose Bierce",
+        "url": "https://standardebooks.org/ebooks/ambrose-bierce/can-such-things-be/text/the-damned-thing",
+        "est_minutes": 14,
+        "tag": "horror",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 3233
+      },
+      "essay": {
+        "id": "d085-essay",
+        "title": "Nonsense Poetry",
+        "author": "George Orwell",
+        "url": "https://orwellfoundation.com/george-orwell/by-orwell/essays-and-other-works/nonsense-poetry/",
+        "est_minutes": 6,
+        "tag": "literary criticism",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 86,
+      "essay_field": "economics",
+      "poem": {
+        "id": "d086-poem",
+        "title": "Ode to a Large Tuna in the Market",
+        "author": "Pablo Neruda",
+        "url": "https://www.poetryfoundation.org/poetrymagazine/poems/49322/ode-to-a-large-tuna-in-the-market",
+        "est_minutes": 3,
+        "tag": "Modern",
+        "requires_login": false,
+        "login_source": null
+      },
+      "story": {
+        "id": "d086-story",
+        "title": "Sleepy",
+        "author": "Anton Chekhov",
+        "url": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett/text/sleepy",
+        "est_minutes": 10,
+        "tag": "literary",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 2263
+      },
+      "essay": {
+        "id": "d086-essay",
+        "title": "The Candlemakers’ Petition",
+        "author": "Frédéric Bastiat",
+        "url": "https://monadnock.net/bastiat/petition.html",
+        "est_minutes": 7,
+        "tag": "economics",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 87,
+      "essay_field": "physics & math",
+      "poem": {
+        "id": "d087-poem",
+        "title": "How to Triumph Like a Girl",
+        "author": "Ada Limón",
+        "url": "https://www.poetryfoundation.org/poems/149814/how-to-triumph-like-a-girl",
+        "est_minutes": 1,
+        "tag": "Contemporary",
+        "requires_login": false,
+        "login_source": null,
+        "audio_url": "https://s3-us-east-2.amazonaws.com/cdn.poetryfoundation.org/content/audio/4f4875bae2660646b33995d45fd6359c7b29ab0a.mp3"
+      },
+      "story": {
+        "id": "d087-story",
+        "title": "The Outcasts of Poker Flat",
+        "author": "Bret Harte",
+        "url": "https://en.wikisource.org/wiki/Luck_of_Roaring_Camp_(1870)/The_Outcasts_of_Poker_Flat",
+        "est_minutes": 18,
+        "tag": "western",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 4108
+      },
+      "essay": {
+        "id": "d087-essay",
+        "title": "How Alexander Grothendieck Revolutionized 20th-Century Mathematics",
+        "author": "Konstantin Kakaes",
+        "url": "https://www.quantamagazine.org/how-alexander-grothendieck-revolutionized-20th-century-mathematics-20260520/",
+        "est_minutes": 8,
+        "tag": "physics & math",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 88,
+      "essay_field": "psychology",
+      "poem": {
+        "id": "d088-poem",
+        "title": "The World Is Too Much with Us",
+        "author": "William Wordsworth",
+        "url": "https://www.poetryfoundation.org/poems/45564/the-world-is-too-much-with-us",
+        "est_minutes": 1,
+        "tag": "Romantic",
+        "requires_login": false,
+        "login_source": null,
+        "audio_url": "https://s3-us-east-2.amazonaws.com/cdn.poetryfoundation.org/content/audio/cf964ca5b1e008344b8735fbb29ebc6e1e6455d6.mp3"
+      },
+      "story": {
+        "id": "d088-story",
+        "title": "Clocks",
+        "author": "Jerome K. Jerome",
+        "url": "https://en.wikisource.org/wiki/The_Diary_of_a_Pilgrimage/Clocks",
+        "est_minutes": 17,
+        "tag": "comedy",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 3854
+      },
+      "essay": {
+        "id": "d088-essay",
+        "title": "Terminal lucidity: when dying dementia patients regain awareness",
+        "author": "Ariel Zeleznikow-Johnston",
+        "url": "https://psyche.co/ideas/terminal-lucidity-when-dying-dementia-patients-regain-awareness",
+        "est_minutes": 9,
+        "tag": "psychology",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 89,
+      "essay_field": "art",
+      "poem": {
+        "id": "d089-poem",
+        "title": "All the world’s a stage",
+        "author": "William Shakespeare",
+        "url": "https://www.poetryfoundation.org/poems/56966/speech-all-the-worlds-a-stage",
+        "est_minutes": 2,
+        "tag": "Renaissance",
+        "requires_login": false,
+        "login_source": null
+      },
+      "story": {
+        "id": "d089-story",
+        "title": "The Selfish Giant",
+        "author": "Oscar Wilde",
+        "url": "https://standardebooks.org/ebooks/oscar-wilde/childrens-stories/text/the-selfish-giant",
+        "est_minutes": 7,
+        "tag": "fairy tale",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 1642
+      },
+      "essay": {
+        "id": "d089-essay",
+        "title": "The Metamorphosis of a 17th-Century Insect Artist",
+        "author": "Allison Meier",
+        "url": "https://daily.jstor.org/the-metamorphosis-of-a-17th-century-insect-artist/",
+        "est_minutes": 3,
+        "tag": "art",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 90,
+      "essay_field": "wildcard",
+      "note": "Pair night: Plato’s cave. Tomorrow, Russell on why philosophy is worth it.",
+      "poem": {
+        "id": "d090-poem",
+        "title": "Incident",
+        "author": "Countee Cullen",
+        "url": "https://www.poetryfoundation.org/poems/42618/incident-56d2213a45f36",
+        "est_minutes": 1,
+        "tag": "Modern",
+        "requires_login": false,
+        "login_source": null
+      },
+      "story": {
+        "id": "d090-story",
+        "title": "The Sycamore and the Sybil",
+        "author": "Alix E. Harrow",
+        "url": "https://www.uncannymagazine.com/article/the-sycamore-and-the-sybil/",
+        "est_minutes": 20,
+        "tag": "fantasy",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 4546
+      },
+      "essay": {
+        "id": "d090-essay",
+        "title": "The Allegory of the Cave",
+        "author": "Plato",
+        "url": "https://people.bu.edu/wwildman/courses/wphil/readings/wphil_rdg02b_republic_cave.htm",
+        "est_minutes": 5,
+        "tag": "philosophy",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 91,
+      "essay_field": "philosophy",
+      "note": "Pair night: compare with Plato (night 90).",
+      "poem": {
+        "id": "d091-poem",
+        "title": "My God, It’s Full of Stars",
+        "author": "Tracy K. Smith",
+        "url": "https://www.poetryfoundation.org/poems/55519/my-god-its-full-of-stars",
+        "est_minutes": 4,
+        "tag": "Contemporary",
+        "requires_login": false,
+        "login_source": null
+      },
+      "story": {
+        "id": "d091-story",
+        "title": "The Mark on the Wall",
+        "author": "Virginia Woolf",
+        "url": "https://en.wikisource.org/wiki/Two_Stories/The_Mark_on_the_Wall",
+        "est_minutes": 15,
+        "tag": "modernist",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 3438
+      },
+      "essay": {
+        "id": "d091-essay",
+        "title": "The Value of Philosophy",
+        "author": "Bertrand Russell",
+        "url": "https://www.paulgraham.com/valueofphilosophy.html",
+        "est_minutes": 10,
+        "tag": "philosophy",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 92,
+      "essay_field": "biology",
+      "poem": {
+        "id": "d092-poem",
+        "title": "Truth",
+        "author": "Geoffrey Chaucer",
+        "url": "https://www.poetryfoundation.org/poems/43940/truth-56d222d5bf80c",
+        "est_minutes": 1,
+        "tag": "Medieval",
+        "requires_login": false,
+        "login_source": null
+      },
+      "story": {
+        "id": "d092-story",
+        "title": "The Cop and the Anthem",
+        "author": "O. Henry",
+        "url": "https://standardebooks.org/ebooks/o-henry/short-fiction/text/the-cop-and-the-anthem",
+        "est_minutes": 10,
+        "tag": "comedy",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 2256
+      },
+      "essay": {
+        "id": "d092-essay",
+        "title": "Worm munch matters",
+        "author": "Ella Browning",
+        "url": "https://aeon.co/essays/worm-munch-matters-the-new-acoustic-ecology-of-the-soil",
+        "est_minutes": 13,
+        "tag": "biology",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 93,
+      "essay_field": "history",
+      "poem": {
+        "id": "d093-poem",
+        "title": "The Oven Bird",
+        "author": "Robert Frost",
+        "url": "https://www.poetryfoundation.org/poems/44269/the-oven-bird",
+        "est_minutes": 1,
+        "tag": "Modern",
+        "requires_login": false,
+        "login_source": null
+      },
+      "story": {
+        "id": "d093-story",
+        "title": "Mother Sauvage",
+        "author": "Guy de Maupassant",
+        "url": "https://americanliterature.com/author/guy-de-maupassant/short-story/mother-sauvage",
+        "est_minutes": 17,
+        "tag": "war",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 3914
+      },
+      "essay": {
+        "id": "d093-essay",
+        "title": "Thoughts on Government",
+        "author": "John Adams",
+        "url": "https://monadnock.net/adams/thoughts.html",
+        "est_minutes": 12,
+        "tag": "history",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 2871
+      }
+    },
+    {
+      "day": 94,
+      "essay_field": "politics",
+      "poem": {
+        "id": "d094-poem",
+        "title": "Poetry",
+        "author": "Marianne Moore",
+        "url": "https://www.poetryfoundation.org/poetrymagazine/poems/20655/the-buffalo",
+        "est_minutes": 1,
+        "tag": "Modern",
+        "requires_login": false,
+        "login_source": null
+      },
+      "story": {
+        "id": "d094-story",
+        "title": "Soldier’s Home",
+        "author": "Ernest Hemingway",
+        "url": "https://standardebooks.org/ebooks/ernest-hemingway/short-fiction/text/soldiers-home",
+        "est_minutes": 12,
+        "tag": "literary",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 2720
+      },
+      "essay": {
+        "id": "d094-essay",
+        "title": "In praise of zealotry",
+        "author": "Geertje Bol",
+        "url": "https://aeon.co/essays/polite-debate-has-privilege-the-marginalised-need-zealotry",
+        "est_minutes": 15,
+        "tag": "politics",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 95,
+      "essay_field": "literary criticism",
+      "poem": {
+        "id": "d095-poem",
+        "title": "The Universal Prayer",
+        "author": "Alexander Pope",
+        "url": "https://www.poetryfoundation.org/poems/50590/the-universal-prayer",
+        "est_minutes": 2,
+        "tag": "18th century",
+        "requires_login": false,
+        "login_source": null
+      },
+      "story": {
+        "id": "d095-story",
+        "title": "The Egg",
+        "author": "Sherwood Anderson",
+        "url": "https://americanliterature.com/author/sherwood-anderson/short-story/the-egg",
+        "est_minutes": 20,
+        "tag": "literary",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 4658
+      },
+      "essay": {
+        "id": "d095-essay",
+        "title": "Good Bad Books",
+        "author": "George Orwell",
+        "url": "https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/good-bad-books/",
+        "est_minutes": 6,
+        "tag": "literary criticism",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 96,
+      "essay_field": "economics",
+      "poem": {
+        "id": "d096-poem",
+        "title": "Hurt Hawks",
+        "author": "Robinson Jeffers",
+        "url": "https://www.poetryfoundation.org/poems/51675/hurt-hawks",
+        "est_minutes": 1,
+        "tag": "Modern",
+        "requires_login": false,
+        "login_source": null
+      },
+      "story": {
+        "id": "d096-story",
+        "title": "The Cabuliwallah",
+        "author": "Rabindranath Tagore",
+        "url": "https://en.wikisource.org/wiki/The_Hungry_Stones_and_Other_Stories/The_Cabuliwallah",
+        "est_minutes": 14,
+        "tag": "literary",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 3091
+      },
+      "essay": {
+        "id": "d096-essay",
+        "title": "Economic Inequality",
+        "author": "Paul Graham",
+        "url": "https://paulgraham.com/ineq.html",
+        "est_minutes": 15,
+        "tag": "economics",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 97,
+      "essay_field": "physics & math",
+      "poem": {
+        "id": "d097-poem",
+        "title": "The Waking",
+        "author": "Theodore Roethke",
+        "url": "https://www.poetryfoundation.org/poems/43333/the-waking-56d2220f25315",
+        "est_minutes": 1,
+        "tag": "Modern",
+        "requires_login": false,
+        "login_source": null
+      },
+      "story": {
+        "id": "d097-story",
+        "title": "The Hunter Gracchus",
+        "author": "Franz Kafka",
+        "url": "https://americanliterature.com/author/franz-kafka/short-story/the-hunter-gracchus",
+        "est_minutes": 8,
+        "tag": "parable",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 1762
+      },
+      "essay": {
+        "id": "d097-essay",
+        "title": "What Can We Gain by Losing Infinity?",
+        "author": "Gregory Barber",
+        "url": "https://www.quantamagazine.org/what-can-we-gain-by-losing-infinity-20260429/",
+        "est_minutes": 16,
+        "tag": "physics & math",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 98,
+      "essay_field": "psychology",
+      "poem": {
+        "id": "d098-poem",
+        "title": "Toy Boat",
+        "author": "Ocean Vuong",
+        "url": "https://www.poetryfoundation.org/poetrymagazine/poems/88733/toy-boat",
+        "est_minutes": 1,
+        "tag": "Contemporary",
+        "requires_login": false,
+        "login_source": null,
+        "audio_url": "https://s3-us-east-2.amazonaws.com/cdn.poetryfoundation.org/content/audio/93109066304260bc6f1f1f43f83ffa98bc2aa540.mp3"
+      },
+      "story": {
+        "id": "d098-story",
+        "title": "The Kiss",
+        "author": "Kate Chopin",
+        "url": "https://en.wikisource.org/wiki/The_Kiss_(Chopin)",
+        "est_minutes": 5,
+        "tag": "literary",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 1072
+      },
+      "essay": {
+        "id": "d098-essay",
+        "title": "The evil eye is irrational. Abandon it at your peril",
+        "author": "Timna Abramov",
+        "url": "https://psyche.co/ideas/the-evil-eye-is-irrational-abandon-it-at-your-peril",
+        "est_minutes": 9,
+        "tag": "psychology",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 99,
+      "essay_field": "art",
+      "poem": {
+        "id": "d099-poem",
+        "title": "If—",
+        "author": "Rudyard Kipling",
+        "url": "https://www.poetryfoundation.org/poems/46473/if---",
+        "est_minutes": 1,
+        "tag": "Victorian",
+        "requires_login": false,
+        "login_source": null,
+        "audio_url": "https://s3-us-east-2.amazonaws.com/cdn.poetryfoundation.org/content/audio/405b0b078d1867a95bd5a95381e7217922d8e97b.mp3"
+      },
+      "story": {
+        "id": "d099-story",
+        "title": "The Heathen",
+        "author": "Jack London",
+        "url": "https://en.wikisource.org/wiki/The_Heathen_Chinee_(1871)",
+        "est_minutes": 4,
+        "tag": "adventure",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 1443
+      },
+      "essay": {
+        "id": "d099-essay",
+        "title": "When Photography Was Not Art",
+        "author": "Jordan G. Teicher",
+        "url": "https://daily.jstor.org/when-photography-was-not-art/",
+        "est_minutes": 3,
+        "tag": "art",
+        "requires_login": false,
+        "login_source": null
+      }
+    },
+    {
+      "day": 100,
+      "essay_field": "wildcard",
+      "poem": {
+        "id": "d100-poem",
+        "title": "Our revels now are ended (The Tempest)",
+        "author": "William Shakespeare",
+        "url": "https://www.poetryfoundation.org/poems/1597331/the-tempest-you-do-look-my-son-4-1-146-163",
+        "est_minutes": 1,
+        "tag": "Renaissance",
+        "requires_login": false,
+        "login_source": null,
+        "audio_url": "https://s3-us-east-2.amazonaws.com/cdn.poetryfoundation.org/content/audio/cec94bd7a6b0bc13c0b4a5238662f5b4de51893a.mp3"
+      },
+      "story": {
+        "id": "d100-story",
+        "title": "The Student",
+        "author": "Anton Chekhov",
+        "url": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett/text/the-student",
+        "est_minutes": 6,
+        "tag": "literary",
+        "requires_login": false,
+        "login_source": null,
+        "word_count_est": 1482
+      },
+      "essay": {
+        "id": "d100-essay",
+        "title": "Of Liars",
+        "author": "Michel de Montaigne",
+        "url": "https://monadnock.net/montaigne/liars2.html",
+        "est_minutes": 10,
+        "tag": "wildcard",
+        "requires_login": false,
+        "login_source": null
+      }
+    }
+  ]
+}

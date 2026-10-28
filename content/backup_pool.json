@@ -1,0 +1,456 @@
+{
+  "generated": "2026-10-05",
+  "poems": [
+    {
+      "id": "bk-p01",
+      "title": "After Apple-Picking",
+      "author": "Robert Frost",
+      "url": "https://www.poetryfoundation.org/poems/44259/after-apple-picking",
+      "est_minutes": 3,
+      "tag": "Modern",
+      "requires_login": false,
+      "login_source": null
+    },
+    {
+      "id": "bk-p02",
+      "title": "The Tuft of Flowers",
+      "author": "Robert Frost",
+      "url": "https://www.poetryfoundation.org/poems/44275/the-tuft-of-flowers",
+      "est_minutes": 3,
+      "tag": "Modern",
+      "requires_login": false,
+      "login_source": null
+    },
+    {
+      "id": "bk-p03",
+      "title": "Sonnet 60",
+      "author": "William Shakespeare",
+      "url": "https://www.poetryfoundation.org/poems/45095/sonnet-60-like-as-the-waves-make-towards-the-pebbld-shore",
+      "est_minutes": 1,
+      "tag": "Renaissance",
+      "requires_login": false,
+      "login_source": null
+    },
+    {
+      "id": "bk-p04",
+      "title": "Eloisa to Abelard",
+      "author": "Alexander Pope",
+      "url": "https://www.poetryfoundation.org/poems/44892/eloisa-to-abelard",
+      "est_minutes": 15,
+      "tag": "18th century",
+      "requires_login": false,
+      "login_source": null
+    },
+    {
+      "id": "bk-p05",
+      "title": "The Sun Rising",
+      "author": "John Donne",
+      "url": "https://www.poetryfoundation.org/poems/44129/the-sun-rising",
+      "est_minutes": 2,
+      "tag": "17th century",
+      "requires_login": false,
+      "login_source": null,
+      "audio_url": "https://s3-us-east-2.amazonaws.com/cdn.poetryfoundation.org/content/audio/fa06dd55948e7f04b4b64d212a8b81a4c9b6b447.mp3"
+    },
+    {
+      "id": "bk-p06",
+      "title": "Sailing to Byzantium",
+      "author": "William Butler Yeats",
+      "url": "https://www.poetryfoundation.org/poems/43291/sailing-to-byzantium",
+      "est_minutes": 2,
+      "tag": "Modern",
+      "requires_login": false,
+      "login_source": null
+    },
+    {
+      "id": "bk-p07",
+      "title": "To Autumn",
+      "author": "John Keats",
+      "url": "https://www.poetryfoundation.org/poems/44484/to-autumn",
+      "est_minutes": 2,
+      "tag": "Romantic",
+      "requires_login": false,
+      "login_source": null,
+      "audio_url": "https://s3-us-east-2.amazonaws.com/cdn.poetryfoundation.org/content/audio/8b8a1412c2c6c41747dbd35d0d9b706529aa3c7f.mp3"
+    },
+    {
+      "id": "bk-p08",
+      "title": "A Noiseless Patient Spider",
+      "author": "Walt Whitman",
+      "url": "https://www.poetryfoundation.org/poems/45473/a-noiseless-patient-spider",
+      "est_minutes": 1,
+      "tag": "19th-century American",
+      "requires_login": false,
+      "login_source": null,
+      "audio_url": "https://s3-us-east-2.amazonaws.com/cdn.poetryfoundation.org/content/audio/ba733bb5e713ce132f3cb7212668feb5624ae933.mp3"
+    },
+    {
+      "id": "bk-p09",
+      "title": "Tell all the truth but tell it slant",
+      "author": "Emily Dickinson",
+      "url": "https://www.poetryfoundation.org/poems/56824/tell-all-the-truth-but-tell-it-slant-1263",
+      "est_minutes": 1,
+      "tag": "19th-century American",
+      "requires_login": false,
+      "login_source": null
+    },
+    {
+      "id": "bk-p10",
+      "title": "Mother to Son",
+      "author": "Langston Hughes",
+      "url": "https://www.poetryfoundation.org/poems/47559/mother-to-son",
+      "est_minutes": 1,
+      "tag": "Modern",
+      "requires_login": false,
+      "login_source": null
+    },
+    {
+      "id": "bk-p11",
+      "title": "Fragment 1",
+      "author": "Sappho",
+      "url": "https://www.poetryfoundation.org/poems/1599421/fragment-1",
+      "est_minutes": 2,
+      "tag": "Ancient",
+      "requires_login": false,
+      "login_source": null
+    },
+    {
+      "id": "bk-p12",
+      "title": "Musée des Beaux Arts",
+      "author": "W. H. Auden",
+      "url": "https://www.poetryfoundation.org/poems/159364/musee-des-beaux-arts-63a1efde036cd",
+      "est_minutes": 2,
+      "tag": "Modern",
+      "requires_login": false,
+      "login_source": null
+    },
+    {
+      "id": "bk-p13",
+      "title": "The Convergence of the Twain",
+      "author": "Thomas Hardy",
+      "url": "https://www.poetryfoundation.org/poems/47266/the-convergence-of-the-twain",
+      "est_minutes": 2,
+      "tag": "Victorian",
+      "requires_login": false,
+      "login_source": null
+    }
+  ],
+  "stories": [
+    {
+      "id": "bk-s01",
+      "title": "A Chameleon",
+      "author": "Anton Chekhov",
+      "url": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett/text/a-chameleon",
+      "est_minutes": 6,
+      "tag": "comedy",
+      "requires_login": false,
+      "login_source": null,
+      "word_count_est": 1294
+    },
+    {
+      "id": "bk-s02",
+      "title": "The Romance of a Busy Broker",
+      "author": "O. Henry",
+      "url": "https://standardebooks.org/ebooks/o-henry/short-fiction/text/the-romance-of-a-busy-broker",
+      "est_minutes": 6,
+      "tag": "comedy",
+      "requires_login": false,
+      "login_source": null,
+      "word_count_est": 1369
+    },
+    {
+      "id": "bk-s03",
+      "title": "The Oval Portrait",
+      "author": "Edgar Allan Poe",
+      "url": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction/text/the-oval-portrait",
+      "est_minutes": 6,
+      "tag": "horror",
+      "requires_login": false,
+      "login_source": null,
+      "word_count_est": 1283
+    },
+    {
+      "id": "bk-s04",
+      "title": "Tobermory",
+      "author": "Saki",
+      "url": "https://standardebooks.org/ebooks/saki/short-fiction/text/tobermory",
+      "est_minutes": 12,
+      "tag": "comedy",
+      "requires_login": false,
+      "login_source": null,
+      "word_count_est": 2707
+    },
+    {
+      "id": "bk-s05",
+      "title": "A Horseman in the Sky",
+      "author": "Ambrose Bierce",
+      "url": "https://standardebooks.org/ebooks/ambrose-bierce/in-the-midst-of-life/text/a-horseman-in-the-sky",
+      "est_minutes": 11,
+      "tag": "war",
+      "requires_login": false,
+      "login_source": null,
+      "word_count_est": 2453
+    },
+    {
+      "id": "bk-s06",
+      "title": "Cannibalism In The Cars",
+      "author": "Mark Twain",
+      "url": "https://americanliterature.com/author/mark-twain/short-story/cannibalism-in-the-cars",
+      "est_minutes": 19,
+      "tag": "satire",
+      "requires_login": false,
+      "login_source": null,
+      "word_count_est": 4454
+    },
+    {
+      "id": "bk-s07",
+      "title": "The Model Millionaire",
+      "author": "Oscar Wilde",
+      "url": "https://standardebooks.org/ebooks/oscar-wilde/lord-arthur-saviles-crime-and-other-stories/text/the-model-millionaire",
+      "est_minutes": 9,
+      "tag": "comedy",
+      "requires_login": false,
+      "login_source": null,
+      "word_count_est": 1988
+    },
+    {
+      "id": "bk-s08",
+      "title": "The End of Something",
+      "author": "Ernest Hemingway",
+      "url": "https://standardebooks.org/ebooks/ernest-hemingway/short-fiction/text/the-end-of-something",
+      "est_minutes": 6,
+      "tag": "literary",
+      "requires_login": false,
+      "login_source": null,
+      "word_count_est": 1365
+    },
+    {
+      "id": "bk-s09",
+      "title": "A Country Doctor",
+      "author": "Franz Kafka",
+      "url": "https://americanliterature.com/author/franz-kafka/short-story/a-country-doctor",
+      "est_minutes": 11,
+      "tag": "literary",
+      "requires_login": false,
+      "login_source": null,
+      "word_count_est": 2568
+    },
+    {
+      "id": "bk-s10",
+      "title": "The Locket",
+      "author": "Kate Chopin",
+      "url": "https://en.wikisource.org/wiki/The_Locket",
+      "est_minutes": 9,
+      "tag": "war",
+      "requires_login": false,
+      "login_source": null,
+      "word_count_est": 2184
+    },
+    {
+      "id": "bk-s11",
+      "title": "The Umbrella",
+      "author": "Guy de Maupassant",
+      "url": "https://standardebooks.org/ebooks/guy-de-maupassant/short-fiction/various-translators/text/the-umbrella",
+      "est_minutes": 13,
+      "tag": "comedy",
+      "requires_login": false,
+      "login_source": null,
+      "word_count_est": 3010
+    },
+    {
+      "id": "bk-s12",
+      "title": "The White Silence",
+      "author": "Jack London",
+      "url": "https://en.wikisource.org/wiki/The_Son_of_the_Wolf_(London_collection)/The_White_Silence",
+      "est_minutes": 17,
+      "tag": "adventure",
+      "requires_login": false,
+      "login_source": null,
+      "word_count_est": 3832
+    }
+  ],
+  "essays": [
+    {
+      "id": "bk-e01",
+      "title": "The Sceptic",
+      "author": "David Hume",
+      "url": "https://monadnock.net/hume/sceptic.html",
+      "est_minutes": 30,
+      "tag": "philosophy",
+      "requires_login": false,
+      "login_source": null
+    },
+    {
+      "id": "bk-e02",
+      "title": "Circles",
+      "author": "Ralph Waldo Emerson",
+      "url": "https://monadnock.net/emerson/circles.html",
+      "est_minutes": 25,
+      "tag": "philosophy",
+      "requires_login": false,
+      "login_source": null
+    },
+    {
+      "id": "bk-e03",
+      "title": "How Is Cell Death Essential to Life?",
+      "author": "Steven Strogatz",
+      "url": "https://www.quantamagazine.org/how-is-cell-death-essential-to-life-20241205/",
+      "est_minutes": 12,
+      "tag": "biology",
+      "requires_login": false,
+      "login_source": null
+    },
+    {
+      "id": "bk-e04",
+      "title": "The Flight of the Eagle",
+      "author": "John Burroughs",
+      "url": "https://monadnock.net/burroughs/eagle.html",
+      "est_minutes": 25,
+      "tag": "biology",
+      "requires_login": false,
+      "login_source": null
+    },
+    {
+      "id": "bk-e05",
+      "title": "How the Plague Reshaped the World",
+      "author": "Matthew Wills",
+      "url": "https://daily.jstor.org/how-the-plague-reshaped-the-world/",
+      "est_minutes": 6,
+      "tag": "history",
+      "requires_login": false,
+      "login_source": null,
+      "word_count_est": 748
+    },
+    {
+      "id": "bk-e06",
+      "title": "Typing for Love or Money",
+      "author": "Christine Jacobson",
+      "url": "https://publicdomainreview.org/essay/typing-for-love-or-money/",
+      "est_minutes": 20,
+      "tag": "history",
+      "requires_login": false,
+      "login_source": null,
+      "word_count_est": 3951
+    },
+    {
+      "id": "bk-e07",
+      "title": "The Liberty of Ancients Compared with that of Moderns",
+      "author": "Benjamin Constant",
+      "url": "https://monadnock.net/constant/liberty.html",
+      "est_minutes": 40,
+      "tag": "politics",
+      "requires_login": false,
+      "login_source": null
+    },
+    {
+      "id": "bk-e08",
+      "title": "Reflections on Gandhi",
+      "author": "George Orwell",
+      "url": "https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/reflections-on-gandhi/",
+      "est_minutes": 20,
+      "tag": "politics",
+      "requires_login": false,
+      "login_source": null
+    },
+    {
+      "id": "bk-e09",
+      "title": "Montaigne",
+      "author": "Virginia Woolf",
+      "url": "https://monadnock.net/woolf/montaigne.html",
+      "est_minutes": 20,
+      "tag": "literary criticism",
+      "requires_login": false,
+      "login_source": null
+    },
+    {
+      "id": "bk-e10",
+      "title": "Rudyard Kipling",
+      "author": "George Orwell",
+      "url": "https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/rudyard-kipling/",
+      "est_minutes": 25,
+      "tag": "literary criticism",
+      "requires_login": false,
+      "login_source": null
+    },
+    {
+      "id": "bk-e11",
+      "title": "Of the Middle Station of Life",
+      "author": "David Hume",
+      "url": "https://monadnock.net/hume/middle.html",
+      "est_minutes": 8,
+      "tag": "economics",
+      "requires_login": false,
+      "login_source": null
+    },
+    {
+      "id": "bk-e12",
+      "title": "The Man Who Stole Infinity",
+      "author": "Joseph Howlett",
+      "url": "https://www.quantamagazine.org/the-man-who-stole-infinity-20260225/",
+      "est_minutes": 15,
+      "tag": "physics & math",
+      "requires_login": false,
+      "login_source": null
+    },
+    {
+      "id": "bk-e13",
+      "title": "Jung’s archetypes are a mirror that shows who and what we are",
+      "author": "Hugh McGovern",
+      "url": "https://psyche.co/ideas/jungs-archetypes-are-a-mirror-that-shows-who-and-what-we-are",
+      "est_minutes": 12,
+      "tag": "psychology",
+      "requires_login": false,
+      "login_source": null
+    },
+    {
+      "id": "bk-e14",
+      "title": "Concept Cells Help Your Brain Abstract Information and Build Memories",
+      "author": "Yasemin Saplakoglu",
+      "url": "https://www.quantamagazine.org/concept-cells-help-your-brain-abstract-information-and-build-memories-20250121/",
+      "est_minutes": 12,
+      "tag": "psychology",
+      "requires_login": false,
+      "login_source": null
+    },
+    {
+      "id": "bk-e15",
+      "title": "When Landscape Painting Was Protest Art",
+      "author": "Allison Meier",
+      "url": "https://daily.jstor.org/when-landscape-painting-was-protest-art/",
+      "est_minutes": 6,
+      "tag": "art",
+      "requires_login": false,
+      "login_source": null
+    },
+    {
+      "id": "bk-e16",
+      "title": "The Human Scale",
+      "author": "George Santayana",
+      "url": "https://monadnock.net/santayana/human-scale.html",
+      "est_minutes": 8,
+      "tag": "art",
+      "requires_login": false,
+      "login_source": null
+    },
+    {
+      "id": "bk-e17",
+      "title": "The Right Kind of Stubborn",
+      "author": "Paul Graham",
+      "url": "https://paulgraham.com/persistence.html",
+      "est_minutes": 15,
+      "tag": "wildcard",
+      "requires_login": false,
+      "login_source": null
+    },
+    {
+      "id": "bk-e18",
+      "title": "On the Past and Future",
+      "author": "William Hazlitt",
+      "url": "https://monadnock.net/hazlitt/future.html",
+      "est_minutes": 25,
+      "tag": "wildcard",
+      "requires_login": false,
+      "login_source": null
+    }
+  ]
+}

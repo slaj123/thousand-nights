@@ -1,0 +1,691 @@
+{
+  "generated": "2026-10-22",
+  "poems": [
+    {
+      "id": "lp-p01",
+      "title": "When You Are Old",
+      "author": "William Butler Yeats",
+      "url": "https://www.poetryfoundation.org/poems/43283/when-you-are-old",
+      "est_minutes": 1,
+      "tag": "Modern",
+      "requires_login": false,
+      "login_source": null,
+      "audio_url": "https://s3-us-east-2.amazonaws.com/cdn.poetryfoundation.org/content/audio/89070c1ad9b80ec8e33e0e3d4de5bd9618efe39f.mp3"
+    },
+    {
+      "id": "lp-p02",
+      "title": "The Red Wheelbarrow",
+      "author": "William Carlos Williams",
+      "url": "https://www.poetryfoundation.org/poems/45502/the-red-wheelbarrow",
+      "est_minutes": 1,
+      "tag": "Modern",
+      "requires_login": false,
+      "login_source": null,
+      "audio_url": "https://s3-us-east-2.amazonaws.com/cdn.poetryfoundation.org/content/audio/ad88602c8a9981e140d8940ba971bbd951560516.mp3"
+    },
+    {
+      "id": "lp-p03",
+      "title": "I’m Nobody! Who are you?",
+      "author": "Emily Dickinson",
+      "url": "https://www.poetryfoundation.org/poems/1647321/im-nobody-who-are-you",
+      "est_minutes": 1,
+      "tag": "19th-century American",
+      "requires_login": false,
+      "login_source": null
+    },
+    {
+      "id": "lp-p04",
+      "title": "Wild nights - Wild nights!",
+      "author": "Emily Dickinson",
+      "url": "https://www.poetryfoundation.org/poems/44087/wild-nights-wild-nights-269",
+      "est_minutes": 1,
+      "tag": "19th-century American",
+      "requires_login": false,
+      "login_source": null,
+      "audio_url": "https://s3-us-east-2.amazonaws.com/cdn.poetryfoundation.org/content/audio/e8e18df8bee43b8f3ee0b4c9c1bc2ea3a1bf7f97.mp3"
+    },
+    {
+      "id": "lp-p05",
+      "title": "So We’ll Go No More a Roving",
+      "author": "Lord Byron (George Gordon)",
+      "url": "https://www.poetryfoundation.org/poems/43845/so-well-go-no-more-a-roving",
+      "est_minutes": 1,
+      "tag": "Romantic",
+      "requires_login": false,
+      "login_source": null
+    },
+    {
+      "id": "lp-p06",
+      "title": "Dirge Without Music",
+      "author": "Edna St. Vincent Millay",
+      "url": "https://www.poetryfoundation.org/poems/52773/dirge-without-music",
+      "est_minutes": 1,
+      "tag": "Modern",
+      "requires_login": false,
+      "login_source": null,
+      "audio_url": "https://s3-us-east-2.amazonaws.com/cdn.poetryfoundation.org/content/audio/d4441f41ecc3251befc1152ee1b4a9206395dabb.mp3"
+    },
+    {
+      "id": "lp-p07",
+      "title": "Harlem",
+      "author": "Langston Hughes",
+      "url": "https://www.poetryfoundation.org/poems/46548/harlem",
+      "est_minutes": 1,
+      "tag": "Modern",
+      "requires_login": false,
+      "login_source": null
+    },
+    {
+      "id": "lp-p08",
+      "title": "Dreams",
+      "author": "Langston Hughes",
+      "url": "https://www.poetryfoundation.org/poems/150995/dreams-5d767850da976",
+      "est_minutes": 1,
+      "tag": "Modern",
+      "requires_login": false,
+      "login_source": null
+    },
+    {
+      "id": "lp-p09",
+      "title": "The Tyger",
+      "author": "William Blake",
+      "url": "https://www.poetryfoundation.org/poems/43687/the-tyger",
+      "est_minutes": 1,
+      "tag": "Romantic",
+      "requires_login": false,
+      "login_source": null,
+      "audio_url": "https://s3-us-east-2.amazonaws.com/cdn.poetryfoundation.org/content/audio/19ee9ad43e6ac607b457be07a6b5d3532853995b.mp3"
+    },
+    {
+      "id": "lp-p10",
+      "title": "In a Station of the Metro",
+      "author": "Ezra Pound",
+      "url": "https://www.poetryfoundation.org/poetrymagazine/poems/12675/in-a-station-of-the-metro",
+      "est_minutes": 1,
+      "tag": "Modern",
+      "requires_login": false,
+      "login_source": null,
+      "audio_url": "https://s3-us-east-2.amazonaws.com/cdn.poetryfoundation.org/content/audio/26ca6b4a1981bfdabd012e922663bd013c2a801f.mp3"
+    },
+    {
+      "id": "lp-p11",
+      "title": "Fog",
+      "author": "Carl Sandburg",
+      "url": "https://www.poetryfoundation.org/poems/45032/fog-56d2245d7b36c",
+      "est_minutes": 1,
+      "tag": "Modern",
+      "requires_login": false,
+      "login_source": null
+    },
+    {
+      "id": "lp-p12",
+      "title": "Upon Julia’s Clothes",
+      "author": "Robert Herrick",
+      "url": "https://www.poetryfoundation.org/poems/47339/upon-julias-clothes",
+      "est_minutes": 1,
+      "tag": "17th century",
+      "requires_login": false,
+      "login_source": null
+    },
+    {
+      "id": "lp-p13",
+      "title": "Loveliest of trees, the cherry now",
+      "author": "A. E. Housman",
+      "url": "https://www.poetryfoundation.org/poems/44411/a-shropshire-lad-2-loveliest-of-trees-the-cherry-now",
+      "est_minutes": 1,
+      "tag": "Victorian",
+      "requires_login": false,
+      "login_source": null
+    },
+    {
+      "id": "lp-p14",
+      "title": "Anecdote of the Jar",
+      "author": "Wallace Stevens",
+      "url": "https://www.poetryfoundation.org/poetrymagazine/poems/14575/anecdote-of-the-jar",
+      "est_minutes": 1,
+      "tag": "Modern",
+      "requires_login": false,
+      "login_source": null,
+      "audio_url": "https://s3-us-east-2.amazonaws.com/cdn.poetryfoundation.org/content/audio/cf8053a8f5809f6f114fcba4b5b7d0949326a927.mp3"
+    },
+    {
+      "id": "lp-p15",
+      "title": "in Just-",
+      "author": "E. E. Cummings",
+      "url": "https://www.poetryfoundation.org/poems/47247/in-just",
+      "est_minutes": 1,
+      "tag": "Modern",
+      "requires_login": false,
+      "login_source": null
+    },
+    {
+      "id": "lp-p16",
+      "title": "Days",
+      "author": "Philip Larkin",
+      "url": "https://www.poetryfoundation.org/poems/48410/days-56d229a0c0c33",
+      "est_minutes": 1,
+      "tag": "Contemporary",
+      "requires_login": false,
+      "login_source": null
+    },
+    {
+      "id": "lp-p17",
+      "title": "Forgetfulness",
+      "author": "Billy Collins",
+      "url": "https://www.poetryfoundation.org/poetrymagazine/poems/37695/forgetfulness",
+      "est_minutes": 1,
+      "tag": "Contemporary",
+      "requires_login": false,
+      "login_source": null
+    },
+    {
+      "id": "lp-p18",
+      "title": "A Red, Red Rose",
+      "author": "Robert Burns",
+      "url": "https://www.poetryfoundation.org/poems/43812/a-red-red-rose",
+      "est_minutes": 1,
+      "tag": "18th century",
+      "requires_login": false,
+      "login_source": null
+    },
+    {
+      "id": "lp-p19",
+      "title": "When I have fears that I may cease to be",
+      "author": "John Keats",
+      "url": "https://www.poetryfoundation.org/poems/44488/when-i-have-fears-that-i-may-cease-to-be",
+      "est_minutes": 1,
+      "tag": "Romantic",
+      "requires_login": false,
+      "login_source": null,
+      "audio_url": "https://s3-us-east-2.amazonaws.com/cdn.poetryfoundation.org/content/audio/880707b0856b555eb9867f4aefa45317b1828af7.mp3"
+    },
+    {
+      "id": "lp-p20",
+      "title": "Spring and Fall",
+      "author": "Gerard Manley Hopkins",
+      "url": "https://www.poetryfoundation.org/poems/44400/spring-and-fall",
+      "est_minutes": 1,
+      "tag": "Victorian",
+      "requires_login": false,
+      "login_source": null,
+      "audio_url": "https://s3-us-east-2.amazonaws.com/cdn.poetryfoundation.org/content/audio/3bb0e07ba33657d1cd427181c78c814e92dbad3f.mp3"
+    },
+    {
+      "id": "lp-p21",
+      "title": "Fire and Ice",
+      "author": "Robert Frost",
+      "url": "https://www.poetryfoundation.org/poems/44263/fire-and-ice",
+      "est_minutes": 1,
+      "tag": "Modern",
+      "requires_login": false,
+      "login_source": null,
+      "audio_url": "https://s3-us-east-2.amazonaws.com/cdn.poetryfoundation.org/content/audio/38ca3e74185622f59241a1051d632614fd764d5c.mp3"
+    },
+    {
+      "id": "lp-p22",
+      "title": "Dust of Snow",
+      "author": "Robert Frost",
+      "url": "https://www.poetryfoundation.org/poems/44262/dust-of-snow",
+      "est_minutes": 1,
+      "tag": "Modern",
+      "requires_login": false,
+      "login_source": null
+    },
+    {
+      "id": "lp-p23",
+      "title": "I am asked a question.",
+      "author": "Jane Hirshfield",
+      "url": "https://www.poetryfoundation.org/poetrymagazine/poems/1614978/i-am-asked-a-question",
+      "est_minutes": 1,
+      "tag": "Contemporary",
+      "requires_login": false,
+      "login_source": null
+    },
+    {
+      "id": "lp-p24",
+      "title": "In Kyoto",
+      "author": "Bashō",
+      "url": "https://www.poetryfoundation.org/poems/48708/in-kyoto-",
+      "est_minutes": 1,
+      "tag": "Ancient",
+      "requires_login": false,
+      "login_source": null
+    },
+    {
+      "id": "lp-p25",
+      "title": "There Will Come Soft Rains",
+      "author": "Sara Teasdale",
+      "url": "https://poetrysociety.org/poems/there-will-come-soft-rains",
+      "est_minutes": 1,
+      "tag": "Modern (the poem in Bradbury’s story)",
+      "requires_login": false,
+      "login_source": null,
+      "word_count_est": 114
+    }
+  ],
+  "stories": [
+    {
+      "id": "lp-s01",
+      "title": "The Killers",
+      "author": "Ernest Hemingway",
+      "url": "https://standardebooks.org/ebooks/ernest-hemingway/short-fiction/text/the-killers",
+      "est_minutes": 12,
+      "tag": "crime",
+      "requires_login": false,
+      "login_source": null,
+      "word_count_est": 2751
+    },
+    {
+      "id": "lp-s02",
+      "title": "Oysters",
+      "author": "Anton Chekhov",
+      "url": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett/text/oysters",
+      "est_minutes": 7,
+      "tag": "literary",
+      "requires_login": false,
+      "login_source": null,
+      "word_count_est": 1511
+    },
+    {
+      "id": "lp-s03",
+      "title": "Gabriel-Ernest",
+      "author": "Saki",
+      "url": "https://standardebooks.org/ebooks/saki/short-fiction/text/gabriel-ernest",
+      "est_minutes": 11,
+      "tag": "dark fantasy",
+      "requires_login": false,
+      "login_source": null,
+      "word_count_est": 2431
+    },
+    {
+      "id": "lp-s04",
+      "title": "Sorrow",
+      "author": "Anton Chekhov",
+      "url": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett/text/sorrow",
+      "est_minutes": 10,
+      "tag": "literary",
+      "requires_login": false,
+      "login_source": null,
+      "word_count_est": 2275
+    },
+    {
+      "id": "lp-s05",
+      "title": "The Man and the Snake",
+      "author": "Ambrose Bierce",
+      "url": "https://standardebooks.org/ebooks/ambrose-bierce/in-the-midst-of-life/text/the-man-and-the-snake",
+      "est_minutes": 11,
+      "tag": "horror",
+      "requires_login": false,
+      "login_source": null,
+      "word_count_est": 2501
+    },
+    {
+      "id": "lp-s06",
+      "title": "The Strategist",
+      "author": "Saki",
+      "url": "https://standardebooks.org/ebooks/saki/short-fiction/text/the-strategist",
+      "est_minutes": 6,
+      "tag": "comedy",
+      "requires_login": false,
+      "login_source": null,
+      "word_count_est": 1463
+    },
+    {
+      "id": "lp-s07",
+      "title": "The Chair Mender",
+      "author": "Guy de Maupassant",
+      "url": "https://standardebooks.org/ebooks/guy-de-maupassant/short-fiction/various-translators/text/the-chair-mender",
+      "est_minutes": 10,
+      "tag": "literary",
+      "requires_login": false,
+      "login_source": null,
+      "word_count_est": 2406
+    },
+    {
+      "id": "lp-s08",
+      "title": "The Huntsman",
+      "author": "Anton Chekhov",
+      "url": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett/text/the-huntsman",
+      "est_minutes": 8,
+      "tag": "literary",
+      "requires_login": false,
+      "login_source": null,
+      "word_count_est": 1745
+    },
+    {
+      "id": "lp-s09",
+      "title": "The Philosopher",
+      "author": "Sherwood Anderson",
+      "url": "https://standardebooks.org/ebooks/sherwood-anderson/winesburg-ohio/text/the-philosopher",
+      "est_minutes": 11,
+      "tag": "literary",
+      "requires_login": false,
+      "login_source": null,
+      "word_count_est": 2627
+    },
+    {
+      "id": "lp-s10",
+      "title": "Boots",
+      "author": "Anton Chekhov",
+      "url": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett/text/boots",
+      "est_minutes": 7,
+      "tag": "comedy",
+      "requires_login": false,
+      "login_source": null,
+      "word_count_est": 1539
+    },
+    {
+      "id": "lp-s11",
+      "title": "The Unrest-Cure",
+      "author": "Saki",
+      "url": "https://standardebooks.org/ebooks/saki/short-fiction/text/the-unrest-cure",
+      "est_minutes": 10,
+      "tag": "comedy",
+      "requires_login": false,
+      "login_source": null,
+      "word_count_est": 2212
+    },
+    {
+      "id": "lp-s12",
+      "title": "In Another Country",
+      "author": "Ernest Hemingway",
+      "url": "https://standardebooks.org/ebooks/ernest-hemingway/short-fiction/text/in-another-country",
+      "est_minutes": 9,
+      "tag": "war",
+      "requires_login": false,
+      "login_source": null,
+      "word_count_est": 2130
+    },
+    {
+      "id": "lp-s13",
+      "title": "The Storyteller",
+      "author": "Saki",
+      "url": "https://standardebooks.org/ebooks/saki/short-fiction/text/the-storyteller",
+      "est_minutes": 8,
+      "tag": "comedy",
+      "requires_login": false,
+      "login_source": null,
+      "word_count_est": 1942
+    },
+    {
+      "id": "lp-s14",
+      "title": "A Son of the Gods",
+      "author": "Ambrose Bierce",
+      "url": "https://standardebooks.org/ebooks/ambrose-bierce/in-the-midst-of-life/text/a-son-of-the-gods",
+      "est_minutes": 11,
+      "tag": "war",
+      "requires_login": false,
+      "login_source": null,
+      "word_count_est": 2635
+    },
+    {
+      "id": "lp-s15",
+      "title": "After the Race",
+      "author": "James Joyce",
+      "url": "https://standardebooks.org/ebooks/james-joyce/dubliners/text/after-the-race",
+      "est_minutes": 10,
+      "tag": "literary",
+      "requires_login": false,
+      "login_source": null,
+      "word_count_est": 2226
+    },
+    {
+      "id": "lp-s16",
+      "title": "A Slander",
+      "author": "Anton Chekhov",
+      "url": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett/text/a-slander",
+      "est_minutes": 6,
+      "tag": "comedy",
+      "requires_login": false,
+      "login_source": null,
+      "word_count_est": 1447
+    },
+    {
+      "id": "lp-s17",
+      "title": "The Applicant",
+      "author": "Ambrose Bierce",
+      "url": "https://standardebooks.org/ebooks/ambrose-bierce/in-the-midst-of-life/text/the-applicant",
+      "est_minutes": 8,
+      "tag": "literary",
+      "requires_login": false,
+      "login_source": null,
+      "word_count_est": 1827
+    },
+    {
+      "id": "lp-s18",
+      "title": "The Mouse",
+      "author": "Saki",
+      "url": "https://standardebooks.org/ebooks/saki/short-fiction/text/the-mouse",
+      "est_minutes": 6,
+      "tag": "comedy",
+      "requires_login": false,
+      "login_source": null,
+      "word_count_est": 1477
+    },
+    {
+      "id": "lp-s19",
+      "title": "Paper Pills",
+      "author": "Sherwood Anderson",
+      "url": "https://standardebooks.org/ebooks/sherwood-anderson/winesburg-ohio/text/paper-pills",
+      "est_minutes": 5,
+      "tag": "literary",
+      "requires_login": false,
+      "login_source": null,
+      "word_count_est": 1262
+    },
+    {
+      "id": "lp-s20",
+      "title": "Grisha",
+      "author": "Anton Chekhov",
+      "url": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett/text/grisha",
+      "est_minutes": 5,
+      "tag": "literary",
+      "requires_login": false,
+      "login_source": null,
+      "word_count_est": 1194
+    }
+  ],
+  "essays": [
+    {
+      "id": "lp-e01",
+      "title": "Gettysburg Address",
+      "author": "Abraham Lincoln",
+      "url": "https://monadnock.net/lincoln/gettysburg.html",
+      "est_minutes": 1,
+      "tag": "politics",
+      "requires_login": false,
+      "login_source": null
+    },
+    {
+      "id": "lp-e02",
+      "title": "How to Disagree",
+      "author": "Paul Graham",
+      "url": "https://paulgraham.com/disagree.html",
+      "est_minutes": 6,
+      "tag": "wildcard",
+      "requires_login": false,
+      "login_source": null
+    },
+    {
+      "id": "lp-e03",
+      "title": "Write Like You Talk",
+      "author": "Paul Graham",
+      "url": "https://paulgraham.com/talk.html",
+      "est_minutes": 3,
+      "tag": "writing",
+      "requires_login": false,
+      "login_source": null
+    },
+    {
+      "id": "lp-e04",
+      "title": "Is There Such a Thing as Good Taste?",
+      "author": "Paul Graham",
+      "url": "https://paulgraham.com/goodtaste.html",
+      "est_minutes": 4,
+      "tag": "art",
+      "requires_login": false,
+      "login_source": null
+    },
+    {
+      "id": "lp-e05",
+      "title": "Second Inaugural Address",
+      "author": "Abraham Lincoln",
+      "url": "https://monadnock.net/lincoln/second-inaugural.html",
+      "est_minutes": 3,
+      "tag": "politics",
+      "requires_login": false,
+      "login_source": null
+    },
+    {
+      "id": "lp-e06",
+      "title": "On Discussion",
+      "author": "Randolph Bourne",
+      "url": "https://monadnock.net/bourne/discussion.html",
+      "est_minutes": 6,
+      "tag": "wildcard",
+      "requires_login": false,
+      "login_source": null
+    },
+    {
+      "id": "lp-e07",
+      "title": "Putting Ideas into Words",
+      "author": "Paul Graham",
+      "url": "https://paulgraham.com/words.html",
+      "est_minutes": 5,
+      "tag": "writing",
+      "requires_login": false,
+      "login_source": null
+    },
+    {
+      "id": "lp-e08",
+      "title": "The Top Idea in Your Mind",
+      "author": "Paul Graham",
+      "url": "https://paulgraham.com/top.html",
+      "est_minutes": 5,
+      "tag": "wildcard",
+      "requires_login": false,
+      "login_source": null
+    },
+    {
+      "id": "lp-e09",
+      "title": "That the Intention Is Judge of Our Actions",
+      "author": "Michel de Montaigne",
+      "url": "https://monadnock.net/montaigne/intention2.html",
+      "est_minutes": 3,
+      "tag": "philosophy",
+      "requires_login": false,
+      "login_source": null
+    },
+    {
+      "id": "lp-e10",
+      "title": "Beyond Smart",
+      "author": "Paul Graham",
+      "url": "https://paulgraham.com/smart.html",
+      "est_minutes": 6,
+      "tag": "wildcard",
+      "requires_login": false,
+      "login_source": null
+    },
+    {
+      "id": "lp-e11",
+      "title": "The Qualifications of Friendship",
+      "author": "Joseph Addison",
+      "url": "https://monadnock.net/addison/friendship.html",
+      "est_minutes": 4,
+      "tag": "philosophy",
+      "requires_login": false,
+      "login_source": null
+    },
+    {
+      "id": "lp-e12",
+      "title": "The Platonist",
+      "author": "David Hume",
+      "url": "https://monadnock.net/hume/platonist.html",
+      "est_minutes": 5,
+      "tag": "philosophy",
+      "requires_login": false,
+      "login_source": null
+    },
+    {
+      "id": "lp-e13",
+      "title": "The Junto",
+      "author": "Benjamin Franklin",
+      "url": "https://monadnock.net/franklin/junto.html",
+      "est_minutes": 5,
+      "tag": "history",
+      "requires_login": false,
+      "login_source": null,
+      "word_count_est": 1253
+    },
+    {
+      "id": "lp-e14",
+      "title": "Plenty of Time",
+      "author": "Heather Shaw",
+      "url": "https://brevitymag.com/nonfiction/plenty-of-time/",
+      "est_minutes": 3,
+      "tag": "memoir",
+      "requires_login": false,
+      "login_source": null
+    },
+    {
+      "id": "lp-e15",
+      "title": "Just Junk – But Who Could Resist It?",
+      "author": "George Orwell",
+      "url": "https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/just-junk-but-who-could-resist-it/",
+      "est_minutes": 5,
+      "tag": "wildcard",
+      "requires_login": false,
+      "login_source": null
+    },
+    {
+      "id": "lp-e16",
+      "title": "Having Kids",
+      "author": "Paul Graham",
+      "url": "https://paulgraham.com/kids.html",
+      "est_minutes": 6,
+      "tag": "wildcard",
+      "requires_login": false,
+      "login_source": null
+    },
+    {
+      "id": "lp-e17",
+      "title": "Freedom of the Park",
+      "author": "George Orwell",
+      "url": "https://orwellfoundation.com/george-orwell/by-orwell/essays-and-other-works/freedom-of-the-park/",
+      "est_minutes": 5,
+      "tag": "politics",
+      "requires_login": false,
+      "login_source": null
+    },
+    {
+      "id": "lp-e18",
+      "title": "Mother Teresa was virtuous, but she was wrong about virtue",
+      "author": "Michael Brownstein",
+      "url": "https://psyche.co/ideas/mother-teresa-was-virtuous-but-she-was-wrong-about-virtue",
+      "est_minutes": 9,
+      "tag": "philosophy",
+      "requires_login": false,
+      "login_source": null
+    },
+    {
+      "id": "lp-e19",
+      "title": "Carnival",
+      "author": "George Santayana",
+      "url": "https://monadnock.net/santayana/carnival.html",
+      "est_minutes": 9,
+      "tag": "wildcard",
+      "requires_login": false,
+      "login_source": null
+    },
+    {
+      "id": "lp-e20",
+      "title": "Skylarks",
+      "author": "George Santayana",
+      "url": "https://monadnock.net/santayana/skylarks.html",
+      "est_minutes": 11,
+      "tag": "wildcard",
+      "requires_login": false,
+      "login_source": null
+    }
+  ]
+}

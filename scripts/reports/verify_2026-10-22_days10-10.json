@@ -1,0 +1,47 @@
+[
+ {
+  "id": "d010-poem",
+  "file": "days_001-100.json",
+  "title": "The Negro Speaks of Rivers",
+  "author": "Langston Hughes",
+  "url": "https://www.poetryfoundation.org/poems/44428/the-negro-speaks-of-rivers",
+  "ok": true,
+  "network": false,
+  "status": 200,
+  "via": "browser",
+  "finalUrl": "https://www.poetryfoundation.org/poems/44428/the-negro-speaks-of-rivers",
+  "pageTitle": "The Negro Speaks of Rivers | The Poetry Foundation",
+  "words": 457,
+  "issues": []
+ },
+ {
+  "id": "d010-story",
+  "file": "days_001-100.json",
+  "title": "The Law of Life",
+  "author": "Jack London",
+  "url": "https://en.wikisource.org/wiki/Children_of_the_Frost/The_Law_of_Life",
+  "ok": true,
+  "network": false,
+  "status": 200,
+  "via": "fetch",
+  "finalUrl": "https://en.wikisource.org/wiki/Children_of_the_Frost/The_Law_of_Life",
+  "pageTitle": "Children of the Frost/The Law of Life - Wikisource, the free online library",
+  "words": 3077,
+  "issues": []
+ },
+ {
+  "id": "d010-essay",
+  "file": "days_001-100.json",
+  "title": "Letter 1: On Saving Time",
+  "author": "Seneca",
+  "url": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_1",
+  "ok": true,
+  "network": false,
+  "status": 200,
+  "via": "fetch",
+  "finalUrl": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_1",
+  "pageTitle": "Moral letters to Lucilius/Letter 1 - Wikisource, the free online library",
+  "words": 806,
+  "issues": []
+ }
+]
