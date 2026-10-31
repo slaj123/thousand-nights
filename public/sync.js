@@ -37,7 +37,8 @@ export function createStore(onChange) {
 
   async function syncNow() {
     if (inflight) return;
-    if (!key) { status = 'needkey'; emit(); return; }
+    // On localhost the dev server skips the key check, so try without one; a 401 still asks for it.
+    if (!key && !/^(localhost|127\.0\.0\.1)$/.test(location.hostname)) { status = 'needkey'; emit(); return; }
     if (!navigator.onLine) { status = 'offline'; emit(); return; }
     inflight = true;
     status = 'syncing'; emit();

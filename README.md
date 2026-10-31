@@ -174,6 +174,8 @@ npm run dev
 ```
 Starts a zero-install preview at http://localhost:8787. It uses the real Worker code and a local SQLite file, with auth bypassed on localhost only. `npx wrangler dev` (after step 1) runs the true Workers runtime instead. Copy `.dev.vars.example` to `.dev.vars` first.
 
+**On Windows:** if a `wrangler` step fails with "internal error", the folder path is probably too long (Windows caps paths at 260 characters, and the local database adds a lot). Move the folder somewhere short, like `C:\code\thousand-nights`, and run the step again.
+
 ## Design
 
 - **Fonts:** Literata (titles and reading), Inter Tight (interface).
